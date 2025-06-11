@@ -1,422 +1,516 @@
-第四章
+# 第四章 从语词到篇章
 
-从语词到篇章
 语言的使用，犹如游戏，有自身的规则。要玩好游戏，首先应该了解规则。词、词组、短语和句子并非随意组合，而是遵循一定的排序规则。句法(Syntax)是研究语言的不同成分组成句子的规则或句子结构成分之间的关系。
-4.1  句法关系
+
+## 4.1 句法关系
+
 句法关系可分为三类，即位置关系、替代关系和同现关系。
-4.1.1   位置关系
-雅赢鸳皇基
-Word OrderDog ran the.The dog ran.
-要实现交际功能，语言就必须有某种方式来标记小句中各种短语的语法作用。例如，在句子The mankissed the girl(那男人吻了那姑娘)中，必须要用某种方法来表示第一个名词短语的功能是主语，第二个是直接宾语。在人类语言中，用以传达该信息的最常见的两种方法是位置关系(即词序)和词缀法(Affixation)。
-位置关系或词序(Word Order)指的是一门语言中词语的排列顺序。如果词语不按照语言常规要求以一定的词序来组成句子，就会产生不合语法或没有任何意义的句子。例4-1中b、c两句可以说明这一点：
-例4-1
-a.The new secretary doesn't like me.(新秘书不喜欢我。)
 
-b.*New secretary the doesn’t me like.
+### 4.1.1 位置关系
 
-c.*Secretary the new like doesn't me.
+**雅赢鸳皇基**
 
-另一种情况，像例4-2,两个句子拥有相同数量和相同形式的词语，而且都符合语法，意思却完全相反。
+**Word Order**
 
-例4-2
-a.She sent the nurse some flowers.(她送了护士一些花。)
+**Dog ran the.**  
+**The dog ran.**
 
-b.The nurse sent her some flowers.(护士送了她一些花。)
+要实现交际功能，语言就必须有某种方式来标记小句中各种短语的语法作用。例如，在句子 *The man kissed the girl*（那男人吻了那姑娘）中，必须要用某种方法来表示第一个名词短语的功能是主语，第二个是直接宾语。在人类语言中，用以传达该信息的最常见的两种方法是位置关系（即词序）和词缀法（Affixation）。
 
-位置关系是索绪尔横组合关系(Syntagmatic Relation)的一方面。在一些基础语言学教材中，它们也被称为横向关系(Horizontal Relation)或链状关系(Chain Relation)。有趣的是，词序被列为划分语言的三种基本方法(词序、亲缘划分和区域划分)之一。以这种方式来划分，语言共计六种类型，即主谓宾(SVO)、谓主宾(VSO)、主宾谓(SOV)、宾谓主(OVS)、宾主谓(OSV)和谓宾主(VOS)。英语属于主谓宾，但这是从类型划分上而言的，并不意味着是唯一可能的排列方式。
-4.1.2  替代关系
-首先，替代关系(Relation of Substitutability)指在相同结构的句子中，语法上可以互相替代的词类或语词的集合。
-例4-3
-is not allowed in the lecture room.(教室里严禁___。)Smoking吸烟Singing唱歌Sleeping睡觉
-其次，它还可指由多个词组成的词组(word group),语法上代替特定集合中的单个语词。
-例4-4
-a.
-而于”笑了。)
-b.
-a scm ao(他去那里了。)
-在a中，我们可以从名词词组中选择；而在b中，我们可以从副词词组中选择。这就是索绪尔所说的联想关系(Associative Relation)或叶姆斯列夫(Hjemslev)所说的纵聚合关系(Paradigmatic Relation)。为便于理解，我们可
+**位置关系** 或词序 (Word Order) 指的是一门语言中词语的排列顺序。如果词语不按照语言常规要求以一定的词序来组成句子，就会产生不合语法或没有任何意义的句子。例 4-1 中 b、c 两句可以说明这一点：
 
-以把它称作纵向关系(Vertical Relation)或选择关系(Choice Relation)。
-4.1.3  同现关系
-同现关系(Relation of Co-occurrence)指小句中不同集合的词语允许或要求和另一集合或类别中的词语一起组成句子或句子的某一特定部分。例如，名词可以前置限定词和形容词，后跟动词或动词短语。
-例4-5
-(前置)名词(后跟)girlboyman三姑娘男孩男人
+**例 4-1**
+a. The new secretary doesn't like me.（新秘书不喜欢我。）  
+b. *New secretary the doesn’t me like.  
+c. *Secretary the new like doesn't me.
+
+另一种情况，像例 4-2，两个句子拥有相同数量和相同形式的词语，而且都符合语法，意思却完全相反。
+
+**例 4-2**
+a. She sent the nurse some flowers.（她送了护士一些花。）  
+b. The nurse sent her some flowers.（护士送了她一些花。）
+
+位置关系是索绪尔横组合关系 (Syntagmatic Relation) 的一方面。在一些基础语言学教材中，它们也被称为横向关系 (Horizontal Relation) 或链状关系 (Chain Relation)。有趣的是，词序被列为划分语言的三种基本方法（词序、亲缘划分和区域划分）之一。以这种方式来划分，语言共计六种类型，即主谓宾 (SVO)、谓主宾 (VSO)、主宾谓 (SOV)、宾谓主 (OVS)、宾主谓 (OSV) 和谓宾主 (VOS)。英语属于主谓宾，但这是从类型划分上而言的，并不意味着是唯一可能的排列方式。
+
+### 4.1.2 替代关系
+
+首先，替代关系 (Relation of Substitutability) 指在相同结构的句子中，语法上可以互相替代的词类或语词的集合。
+
+**例 4-3**
+___ is not allowed in the lecture room. （教室里严禁___。）  
+- Smoking (吸烟)  
+- Singing (唱歌)  
+- Sleeping (睡觉)
+
+其次，它还可指由多个词组成的词组 (word group)，语法上代替特定集合中的单个语词。
+
+**例 4-4**
+a. “而于”笑了。  
+b. a scm ao (他去那里了。)
+
+在 a 中，我们可以从名词词组中选择；而在 b 中，我们可以从副词词组中选择。这就是索绪尔所说的联想关系 (Associative Relation) 或叶姆斯列夫 (Hjemslev) 所说的纵聚合关系 (Paradigmatic Relation)。为便于理解，我们可以把它称作纵向关系 (Vertical Relation) 或选择关系 (Choice Relation)。
+
+### 4.1.3 同现关系
+
+同现关系 (Relation of Co-occurrence) 指小句中不同集合的词语允许或要求和另一集合或类别中的词语一起组成句子或句子的某一特定部分。例如，名词可以前置限定词和形容词，后跟动词或动词短语。
+
+**例 4-5**  
+(前置)名词(后跟)  
+- girl (姑娘)  
+- boy (男孩)  
+- man (男人)
+
 因此，同现关系部分属于横组合关系，部分属于纵聚合关系。
-4.2语法结构和成分
-4.2.1  语法结构
-语法结构或建构(construct)用来指语言中被赋予一种或多种功能的任何句法建构，包括该建构在语言学上所拥有的常规意义和用法。在句法层次上，我们可区分一种语言中任何结构的外部特征和内部特征。
-结构的外部句法特征是指整体结构所具有的特征，即说话者所知道的在更大的句法上下文中与此结构有关的方方面面。例如，不同的术语，像小句类型、短语类型(例4-6),分别被赋予不同的结构特征。
-句子的内部结构实际上是指对结构组成成分的描述，可用主语、谓语、宾语、限定词、名词等术语。请看例4-6。
 
-例4-6
-主语十动词十宾语(小句类型)Smithlovedan apple
-限定词+名词(短语类型)
-this
-edition
-此外，在话语/篇章分析中，结构可看作结构类型的一个标志。句子结构Mr.Garlandteaches skiing(加兰德先生教滑雪)属“主语+谓语”类型，但却是通过语符列(string)“Mr.+Garland+teaches+skiing”来实现的。正是在这个意义上，结构才可细分为不同的成分。
-4.2.2  直接成分
-subjectpredicate
-在句子结构分析中，成分用来指任何语言单位，而该单位又是更大的语言单位的一部分。若干成分共同组成一个结构。例如，在句子The schoolmasterdrove the car(校长驾车)中，句子本身(A),the schoolmaster(B),drove thecar(C),都是一个成分。成分可以和其他成分结合组成更大的单位。如果两个成分，如上例中的成分B(the schoolmaster)和C(drove the car),结合起来形成一个更高一级的成分A(在上例中是句子),那么B和C就是A的直接成分(Immediate Constituent)。
-例4-7
-A(句子)BCthe schoolmasterdrove the car
-这个树形图包含三个节点(Node),节点A是下面两个节点B和C的母节点，B和C是同一个母节点的两个子节点，我们可以称它们为姊妹节点。这个简单的树形图表明，A由B和C两部分组成，而且B、C又按一定的次序排列。
-以这种方式来分解语法结构就称为直接成分分析法(ImmediateConstituent Analysis),简称IC分析。
-直接成分本身也可以是某种类型的结构，例如，名词短语the schoolmaster可进一步分析为the(限定词)+schoolmaster(名词)。因此，the school-
+## 4.2 语法结构和成分
 
-master是一个名词短语结构，而the和schoolmaster是它的成分。
-当树形图(Tree Diagram)被用来表明一个语法单位(例如短语或句子)的成分结构时，应使用句法范畴来给节点标注，下面所列的是最常用的标记：
-词类N =名词A=形容词V=动词P=介词Det =限定词Adv =副词Conj =连词
-短语类NP=名词短语AP=形容词短语VP=动词短语PP=介词短语S =句子或小句
-以The boy ate the apple(那男孩吃了那个苹果)为例，我们可用树形图详细地表示如下。
-(a)树形图
-例4-8
-SNPVPDetNVNPDetNTheboyate the appleTheboyate the apple
+### 4.2.1 语法结构
 
-(b)括号法
-和树形图相比，括号法(Bracketing)不那么常用，但不失为一种标注语法单位成分结构的便捷方法。
-((The)(boy))((ate)((the)(apple)))
-4.2.3向心结构和离心结构
-句法结构可依据成分的分布以及它们之间的关系分析为两大类：向心结构(Endocentric Construction)和离心结构(Exocentric Construction)。
-1.向心结构
-向心结构是指该结构的分布在功能上相当于它的一个或多个成分，即一个词或词组可确定为“中心”(Centre)或“中心词”(Head)。一般说来，名词短语、动词短语和形容词短语属于向心结构，因为它们的成分都从属于中心词。
-例4-9
-a.    these two oldest
-stonebridgesHead
-b.   will be
-leavingHead
-C.
-verylateHead
+语法结构或建构 (construct) 用来指语言中被赋予一种或多种功能的任何句法建构，包括该建构在语言学上所拥有的常规意义和用法。在句法层次上，我们可区分一种语言中任何结构的外部特征和内部特征。
 
-2.离心结构
-离心结构和向心结构正好相反，是指一组句法上相互联系的词语，词组内的任何一个词在功能上都不等于整个词组，也就是说，在词组内部没有确定的中心或中心词。通常情况下，离心结构包括基本句、介词短语、谓语结构(动词+宾语[verb+object])和系表结构(系动词+补语[be+complement])。
-例4-10
-a.Alice smiled.(艾丽丝笑了。)(任一成分不能代替整个句子结构)
+**结构的外部句法特征** 是指整体结构所具有的特征，即说话者所知道的在更大的句法上下文中与此结构有关的方方面面。例如，不同的术语，像小句类型、短语类型（例 4-6），分别被赋予不同的结构特征。
 
-b.Tom hid behind the door.(汤姆藏在门后。)(任一成分不具有副
-词性功能)
-c.Joseph kicked the ball.(约瑟夫踢球。)(任一成分不能代表动宾
-结构)
-d.John seemed angry.(约翰看起来生气了。)(如果这两者分开，系
-表结构不复存在)
-4.2.4  并列关系和从属关系
-根据成分之间的关系，向心结构还可分为两类：并列关系(Coordination)和从属关系(Subordination)。
-1.并列关系
-并列是英语以及其他语言中一种常见的句法关系，由同类型的两个或两个以上的范畴，借助连词and,but和or组合而成。这种组合方式被称为并列关系。被组合的词、短语或小句具有平等的句法地位，每一个单独成分在功能上都可代表原结构。
-例4-11
-名词短语的并列：
-[np the lady]or[np the tiger](美女还是老虎)
-动词短语的并列：
-[vp go to the library ]and[vp read a book](去图书馆和看书)介词短语的并列：
-[pp down the stairs]and[pp out the door](下楼并出门)形容词短语的并列：
-[AP quite expensive]and[Apvery beautiful]
-(相当昂贵且十分漂亮)
-句子的并列：
-[s John loves Mary ]and[s Mary loves John too].(约翰爱玛丽，玛丽也爱着约翰。)
+**句子的内部结构** 实际上是指对结构组成成分的描述，可用主语、谓语、宾语、限定词、名词等术语。请看例 4-6。
+
+**例 4-6**
+- 主语 + 动词 + 宾语 (小句类型)  
+  Smith loved an apple  
+- 限定词 + 名词 (短语类型)  
+  this edition
+
+此外，在话语/篇章分析中，结构可看作结构类型的一个标志。句子结构 Mr. Garland teaches skiing (加兰德先生教滑雪) 属 “主语 + 谓语” 类型，但却是通过语符列 (string) “Mr. + Garland + teaches + skiing” 来实现的。正是在这个意义上，结构才可细分为不同的成分。
+
+### 4.2.2 直接成分
+
+在句子结构分析中，成分用来指任何语言单位，而该单位又是更大的语言单位的一部分。若干成分共同组成一个结构。例如，在句子 *The schoolmaster drove the car* (校长驾车) 中，句子本身 (A), *the schoolmaster* (B), *drove the car* (C), 都是一个成分。成分可以和其他成分结合组成更大的单位。如果两个成分，如上例中的成分 B (*the schoolmaster*) 和 C (*drove the car*), 结合起来形成一个更高一级的成分 A (在上例中是句子), 那么 B 和 C 就是 A 的直接成分 (Immediate Constituent)。
+
+**例 4-7**
+- A (句子)  
+  - B (the schoolmaster)  
+  - C (drove the car)
+
+这个树形图包含三个节点 (Node)，节点 A 是下面两个节点 B 和 C 的母节点，B 和 C 是同一个母节点的两个子节点，我们可以称它们为姊妹节点。这个简单的树形图表明，A 由 B 和 C 两部分组成，而且 B、C 又按一定的次序排列。
+
+以这种方式来分解语法结构就称为直接成分分析法 (Immediate Constituent Analysis)，简称 IC 分析。
+
+直接成分本身也可以是某种类型的结构，例如，名词短语 *the schoolmaster* 可进一步分析为 *the* (限定词) + *schoolmaster* (名词)。因此，*the schoolmaster* 是一个名词短语结构，而 *the* 和 *schoolmaster* 是它的成分。
+
+当树形图 (Tree Diagram) 被用来表明一个语法单位（例如短语或句子）的成分结构时，应使用句法范畴来给节点标注，下面所列的是最常用的标记：
+
+- 词类  
+  - N = 名词  
+  - A = 形容词  
+  - V = 动词  
+  - P = 介词  
+  - Det = 限定词  
+  - Adv = 副词  
+  - Conj = 连词
+
+- 短语类  
+  - NP = 名词短语  
+  - AP = 形容词短语  
+  - VP = 动词短语  
+  - PP = 介词短语  
+  - S = 句子或小句
+
+以 *The boy ate the apple* (那男孩吃了那个苹果) 为例，我们可用树形图详细地表示如下。
+
+**例 4-8**
+
+(a) 树形图
+```
+S
+├── NP
+│   ├── Det: The
+│   └── N: boy
+└── VP
+    ├── V: ate
+    └── NP
+        ├── Det: the
+        └── N: apple
+```
+
+(b) 括号法
+```
+((The) (boy)) ((ate) ((the) (apple)))
+```
+
+和树形图相比，括号法 (Bracketing) 不那么常用，但不失为一种标注语法单位成分结构的便捷方法。
+
+### 4.2.3 向心结构和离心结构
+
+句法结构可依据成分的分布以及它们之间的关系分析为两大类：向心结构 (Endocentric Construction) 和离心结构 (Exocentric Construction)。
+
+#### 1. 向心结构
+
+向心结构是指该结构的分布在功能上相当于它的一个或多个成分，即一个词或词组可确定为“中心” (Centre) 或“中心词” (Head)。一般说来，名词短语、动词短语和形容词短语属于向心结构，因为它们的成分都从属于中心词。
+
+**例 4-9**
+a. these two oldest stone bridges  
+   Head: bridges  
+b. will be leaving  
+   Head: leaving  
+c. very late  
+   Head: late
+
+#### 2. 离心结构
+
+离心结构和向心结构正好相反，是指一组句法上相互联系的词语，词组内的任何一个词在功能上都不等于整个词组，也就是说，在词组内部没有确定的中心或中心词。通常情况下，离心结构包括基本句、介词短语、谓语结构 (动词 + 宾语 [verb + object]) 和系表结构 (系动词 + 补语 [be + complement])。
+
+**例 4-10**
+a. Alice smiled. (艾丽丝笑了。) (任一成分不能代替整个句子结构)  
+b. Tom hid behind the door. (汤姆藏在门后。) (任一成分不具有副词性功能)  
+c. Joseph kicked the ball. (约瑟夫踢球。) (任一成分不能代表动宾结构)  
+d. John seemed angry. (约翰看起来生气了。) (如果这两者分开，系表结构不复存在)
+
+### 4.2.4 并列关系和从属关系
+
+根据成分之间的关系，向心结构还可分为两类：并列关系 (Coordination) 和从属关系 (Subordination)。
+
+#### 1. 并列关系
+
+并列是英语以及其他语言中一种常见的句法关系，由同类型的两个或两个以上的范畴，借助连词 and, but 和 or 组合成。这种组合方式被称为并列关系。被组合的词、短语或小句具有平等的句法地位，每一个单独成分在功能上都可代表原结构。
+
+**例 4-11**
+- 名词短语的并列：  
+  [np the lady] or [np the tiger] (美女还是老虎)  
+- 动词短语的并列：  
+  [vp go to the library] and [vp read a book] (去图书馆和看书)  
+- 介词短语的并列：  
+  [pp down the stairs] and [pp out the door] (下楼并出门)  
+- 形容词短语的并列：  
+  [AP quite expensive] and [Ap very beautiful] (相当昂贵且十分漂亮)  
+- 句子的并列：  
+  [s John loves Mary] and [s Mary loves John too]. (约翰爱玛丽，玛丽也爱着约翰。)
 
 这种结构通常被看作双重中心，因为两个组成成分中任何一个都可以作为更大单位的中心。也就是说，在一个并列结构中，这两个或更多的句子成分是以更高一级的分句子或并列中心词的形式出现的。
-并列关系的特征之一是连词前的并列成分在数量上没有限制。于是，我们就有了例4-12中的结构，作为主语的名词短语由连词前的四个名词短语和连词后的一个短语构成。
-例4-12
-[NpA man,a woman,a boy,a cat and a dog]got into the car.
-([一个男人、一个妇女、一个男孩、一只猫和一只狗]进了轿车。)
-因此，并列关系在被称为语言创造性的递归性中拥有自身的地位(参阅4.6)。
-2.从属关系
-从属关系是指一个语言单位依附于或从属于另一个语言单位的关系，其中的语言单位具有不同的句法地位。从属成分指那些修饰中心词的词语，如下面例中的画线部分，故而它们被称为修饰语(modifier)。
-例4-13
-a.two dogs(两只狗)
-中心词
-b.(My brother)can drink(wine).([我哥哥]能喝[酒]。)
 
-中心词
-c.Swimming in the lake (is fun).(在湖里游泳[有趣]。)
-中心词
-d.(The pepper was)hot beyond endurance.([辣椒]辣得受不了。)
-中心词
-当然，小句也可作为从属成分，三种基本的从属小句指宾语从句(complement clauses)、状语从句(adjunct/adverbial clauses)和关系从句(relative clauses)。
-例4-14
-a.John believes[that the airplane was invented by an Irishman].
-(约翰相信[飞机是爱尔兰人发明的]。)(宾语从句)
-b.Elizabeth opened her presents[before John finished his dinner].
-([在约翰吃完饭之前]伊丽沙白打开了她的礼物。)(状语从句)
+并列关系的特征之一是连词前的并列成分在数量上没有限制。于是，我们就有了例 4-12 中的结构，作为主语的名词短语由连词前的四个名词短语和连词后的一个短语构成。
 
-c.The woman[that I love]is moving to the south.
+**例 4-12**
+[Np A man, a woman, a boy, a cat and a dog] got into the car.  
+([一个男人、一个妇女、一个男孩、一只猫和一只狗] 进了轿车。)
 
-([我爱的]女人要搬到南方去。)(关系从句)
-因为所有的小句都包含作为主语的名词短语和作为谓语的限定性动词短语，你可以扩展这些名词短语和动词短语，也可以把它们重新排列组合，从这个意义上说，从属关系和并列关系以不同的方式参与语言的递归性(参阅例4-40)。
-4.3句法功能
+因此，并列关系在被称为语言创造性的递归性中拥有自身的地位（参阅 4.6）。
+
+#### 2. 从属关系
+
+从属关系是指一个语言单位依附于或从属于另一个语言单位的关系，其中的语言单位具有不同的句法地位。从属成分指那些修饰中心词的词语，如下面例中的画线部分，故而它们被称为修饰语 (modifier)。
+
+**例 4-13**
+a. two dogs (两只狗)  
+   中心词：dogs  
+b. (My brother) can drink (wine). ([我哥哥]能喝[酒]。)  
+   中心词：drink, wine  
+c. Swimming in the lake (is fun). (在湖里游泳[有趣]。)  
+   中心词：is fun  
+d. (The pepper was) hot beyond endurance. ([辣椒]辣得受不了。)  
+   中心词：was
+
+当然，小句也可作为从属成分，三种基本的从属小句指宾语从句 (complement clauses)、状语从句 (adjunct/adverbial clauses) 和关系从句 (relative clauses)。
+
+**例 4-14**
+a. John believes [that the airplane was invented by an Irishman]. (约翰相信[飞机是爱尔兰人发明的]。) (宾语从句)  
+b. Elizabeth opened her presents [before John finished his dinner]. ([在约翰吃完饭之前]伊丽沙白打开了她的礼物。) (状语从句)  
+c. The woman [that I love] is moving to the south. ([我爱的]女人要搬到南方去。) (关系从句)
+
+因为所有的小句都包含作为主语的名词短语和作为谓语的限定性动词短语，你可以扩展这些名词短语和动词短语，也可以把它们重新排列组合，从这个意义上说，从属关系和并列关系以不同的方式参与语言的递归性（参阅例 4-40）。
+
+## 4.3 句法功能
+
 句法功能是指一种语言形式和同一句型中的其他部分之间的关系。功能的名称通常有主语、宾语、谓语、修饰语、补语等。除了前一节提到过的“修饰语”这个术语之外，下面这些也是句法中常用的几个基本功能术语。
-4.3.1主语
-在一些语言中，主语(Subject)指主格形式之中的名词。最典型的例子是拉丁语，主语总是以主格形式出现，例如例4-15中的pater和filius。
-例4-15
-a.Pater filium amat.(父亲爱儿子。)
 
-b.Patrem filius amat.(儿子爱父亲。)
+### 4.3.1 主语
 
-英语中，句子的主语通常被认为是动作的执行者，宾语则是执行者所作用的人或物。这个定义对于例4-16 a、b两个句子来说是成立的，但是对于c、d来说明显是不对的。
-例4-16
-a.Mary slapped John.(玛丽打了约翰一巴掌。)
+在一些语言中，主语 (Subject) 指主格形式之中的名词。最典型的例子是拉丁语，主语总是以主格形式出现，例如例 4-15 中的 pater 和 filius。
 
-b.A dog bit John.(狗咬了约翰。)
+**例 4-15**
+a. Pater filium amat. (父亲爱儿子。)  
+b. Patrem filius amat. (儿子爱父亲。)
 
-c.John was bitten by a dog.(约翰被狗咬了。)
+英语中，句子的主语通常被认为是动作的执行者，宾语则是执行者所作用的人或物。这个定义对于例 4-16 a、b 两个句子来说是成立的，但是对于 c、d 来说明显是不对的。
 
-d.John underwent major heart surgery.(约翰做了心脏手术。)
+**例 4-16**
+a. Mary slapped John. (玛丽打了约翰一巴掌。)  
+b. A dog bit John. (狗咬了约翰。)  
+c. John was bitten by a dog. (约翰被狗咬了。)  
+d. John underwent major heart surgery. (约翰做了心脏手术。)
 
-像“动作的执行者”或“被作用的人或事”这样的表达识别的只是特定的语义角色，即施事者(agent)和受事者(patient)。但在例4-16中我们发现，主语并不总是施事者，受事者也并不总是宾语。在这四个例子中，John都是被作用的对象，但在a、b两句中，John是宾语，在c、d两句中，John则成了主语。
-为了解释例4-16 c被动语态句中主语的情况，我们使用另外两个术语：语法主语(Grammatical Subject)和逻辑主语(Logical Subject)。核心宾语
+像“动作的执行者”或“被作用的人或事”这样的表达识别的只是特定的语义角色，即施事者 (agent) 和受事者 (patient)。但在例 4-16 中我们发现，主语并不总是施事者，受事者也并不总是宾语。在这四个例子中，John 都是被作用的对象，但在 a、b 两句中，John 是宾语，在 c、d 两句中，John 则成了主语。
 
-名词(John)在被动句中处于动词之前的位置，所以它被称为语法主语，正常情况下动词之前的语法位置是由主语充当的，而在被动句中则由原来的宾语名词短语占据着；核心主语(a dog)即现在的介词宾语(by a dog)被称为逻辑主语，因为从语义角度来说，核心主语仍然在执行着主语应该做的事情，即它执行一个动作。
-另一种对主语的传统定义是“句子是关于什么的”(即主题[topic])。同样，这个定义对多数句子来说是成立的(像例4-17 a),但对其他句子来说却是不成立的(如例4-17b、c)。三个句子看起来都是关于Bill的，按这种定义，我们就可以说Bill是三个句子的主题。但是在a中，Bill是主语，在b中，Bill却是宾语，而在c中，Bill既不是主语也不是宾语。这些例子充分说明主题并不总是语法主语。
-例4-17
-a.Bill is a very crafty fellow.(比尔是个十分精明的人。)
+为了解释例 4-16 c 被动语态句中主语的情况，我们使用另外两个术语：语法主语 (Grammatical Subject) 和逻辑主语 (Logical Subject)。核心宾语名词 (John) 在被动句中处于动词之前的位置，所以它被称为语法主语，正常情况下动词之前的语法位置是由主语充当的，而在被动句中则由原来的宾语名词短语占据着；核心主语 (a dog) 即现在的介词宾语 (by a dog) 被称为逻辑主语，因为从语义角度来说，核心主语仍然在执行着主语应该做的事情，即它执行一个动作。
 
-b.(Jack is pretty reliable,but)Bill I don't trust.([杰克相当可靠，
-但是]比尔我却是不太信任。)
-c.As for Bill,I wouldn³t take his promises very seriously.(就比尔
-而言，我从不把他的承诺当真。)
-这样看来，我们用施事或主题来识别句子的主语是不可靠的。我们应该使用语法标准来下一个行得通的定义。主语具有什么特征?看下面英语句子中主语的一些特征：
-A.词序：陈述句中主语通常位于动词前。
-例4-18
-a.Sally collects stamps.(沙里集邮。)
-b.*Collects Sally stamps.
+另一种对主语的传统定义是“句子是关于什么的”（即主题 [topic]）。同样，这个定义对多数句子来说是成立的（像例 4-17 a），但对其他句子来说却是不成立的（如例 4-17 b、c）。三个句子看起来都是关于 Bill 的，按这种定义，我们就可以说 Bill 是三个句子的主题。但是在 a 中，Bill 是主语，在 b 中，Bill 却是宾语，而在 c 中，Bill 既不是主语也不是宾语。这些例子充分说明主题并不总是语法主语。
 
-B.代词形式：在主语是代词的情况下，英语中第一和第三人称代词以特
-殊的形式出现，参考例4-19。当这些代词出现在其他位置时，并不使用这种形式。
-例4-19
-a.He loves me.(他爱我。)
+**例 4-17**
+a. Bill is a very crafty fellow. (比尔是个十分精明的人。)  
+b. (Jack is pretty reliable, but) Bill I don't trust. ([杰克相当可靠，但是]比尔我却是不太信任。)  
+c. As for Bill, I wouldn’t take his promises very seriously. (就比尔而言，我从不把他的承诺当真。)
 
-b.Ilove him.(我爱他。)
+这样看来，我们用施事或主题来识别句子的主语是不可靠的。我们应该使用语法标准来下一个行得通的定义。主语具有什么特征？看下面英语句子中主语的一些特征：
 
-c.We threw stones at them.(我们朝他们扔石块。)
+- **A. 词序：** 陈述句中主语通常位于动词前。  
+  **例 4-18**  
+  a. Sally collects stamps. (沙里集邮。)  
+  b. *Collects Sally stamps.
 
-d.They threw stones at us.(他们朝我们扔石块。)
+- **B. 代词形式：** 在主语是代词的情况下，英语中第一和第三人称代词以特殊的形式出现，参考例 4-19。当这些代词出现在其他位置时，并不使用这种形式。  
+  **例 4-19**  
+  a. He loves me. (他爱我。)  
+  b. I love him. (我爱他。)  
+  c. We threw stones at them. (我们朝他们扔石块。)  
+  d. They threw stones at us. (他们朝我们扔石块。)
 
+- **C. 与动词一致：** 在一般现在时中，当主语是第三人称单数时，需要在动词后面加上 -s。但宾语和句子中的其他成分在数和人称上的变化都不会对动词的形式产生任何影响。  
+  **例 4-20**  
+  a. She angers him. (她激怒了他。)  
+  b. They anger him. (他们激怒了他。)  
+  c. She angers them. (她激怒了他们。)
 
-C.与动词一致：在一般现在时中，当主语是第三人称单数时，需要在动词
-后面加上-s。但宾语和句子中的其他成分在数和人称上的变化都不会对动词的形式产生任何影响。
-例4-20
-a.She angers him.(她激怒了他。)
+- **D. 特殊疑问句：** 当主语被疑问代词 (who 或者 what) 代替时，句子的其他成分保持不变，如例 4-21b。但是当其他成分被疑问代词代替时，主语前面一定要有一个助动词。如果一个基本句子不包括助动词的话，我们在疑问代词后一定要插入 did, do, does 这样的助动词。参看例 4-21d 和 e。  
+  **例 4-21**  
+  a. John stole / would steal Darwin's picture from the British Council. (约翰偷走 / 会偷走英国文化协会里达尔文的照片。)  
+  b. Who stole / would steal Darwin's picture from the British Council? (谁偷走 / 会偷走英国文化协会里达尔文的照片？)  
+  c. What would John steal, if he had the chance? (要是有机会，约翰会偷走什么？)  
+  d. What did John steal from the British Council? (约翰从英国文化协会里偷走了什么？)  
+  e. Where did John steal Darwin's picture from? (约翰从哪儿偷到了达尔文的照片？)
 
-b.They anger him.(他们激怒了他。)
+- **E. 反意疑问句：** 反意疑问句用来证实论断的确定性。它总是包括一个代词，这个代词用来指代主语，而不是句子中的其他成分。  
+  **例 4-22**  
+  a. Thomas loves Mary, doesn’t he? (托马斯爱玛丽，是吗？)  
+  b. Mary loves Thomas, doesn’t she? (玛丽爱托马斯，是吗？)  
+  c. *Thomas loves Mary, doesn’t she?
 
-c.She angers them.(她激怒了他们。)
+### 4.3.2 谓语
 
-D.特殊疑问句：当主语被疑问代词(who或者what)代替时，句子的其
-他成分保持不变，如例4-21b。但是当其他成分被疑问代词代替时，主语前面一定要有一个助动词。如果一个基本句子不包括助动词的话，我们在疑问代词后一定要插入did,do,does这样的助动词。参看例4-21d和e。
-例4-21
-a.John stole/would steal Darwin's picture from the British Council.
-(约翰偷走/会偷走英国文化协会里达尔文的照片。)
-b.Who stole/would steal Darwin's picture from the British Council?
-(谁偷走/会偷走英国文化协会里达尔文的照片?)
-c.What would John steal,if he had the chance?
-(要是有机会，约翰会偷走什么?)
-d.What did John steal from the British Council?
-(约翰从英国文化协会里偷走了什么?)
-e.Where did John steal Darwin's picture from?
-(约翰从哪儿偷到了达尔文的照片?)
-E.反意疑问句：反意疑问句用来证实论断的确定性。它总是包括一个代
-词，这个代词用来指代主语，而不是句子中的其他成分。
-例4-22
-a.Thomas loves Mary,doesn't he?(托马斯爱玛丽，是吗?)
+谓语 (Predicate) 是指在句子结构二分法中除主语之外的其他所有成分。谓语通常表达主语的动作、过程和状态。
 
-b.Mary loves Thomas,doesn't she?(玛丽爱托马斯，是吗?)
+**例 4-23**
+a. The boy is running. (孩子在奔跑。)  
+b. Peter broke the glass. (彼得打破了玻璃杯。)  
+c. Jane must be mad! (简一定是疯了!)
 
-c.*Thomas loves Mary,doesn’t she?
+谓语包括动词、宾语、补语等成分，因此，在对功能属性进行语法分析中用一个类术语即动词来表达谓语，很多人认为这是不合逻辑的，而建议用“谓词” (Predicator) 来指谓语中的动词。
 
-4.3.2  谓语
-谓语(Predicate)是指在句子结构二分法中除主语之外的其他所有成分。谓语通常表达主语的动作、过程和状态。
+# 4.3.3 宾语
 
-例4-23
-a.The boy is running.(孩子在奔跑。)
+**宾语 (Object)** 也是一个很难定义的概念。由于传统上主语被定义为动作的执行者，宾语也就用来指动作的接受者或目标。宾语还可进一步区分为直接宾语和间接宾语。
 
-b.Peter broke the glass.(彼得打破了玻璃杯。)
+**例 4-24**
+a. Mother bought a doll. (妈妈买了一个玩具娃娃。)  
+   间接宾语：无  
+   直接宾语：a doll
 
-c.Jane must be mad!(简一定是疯了!)
+b. Mother gave my sister a doll. (妈妈给了我妹妹一个玩具娃娃。)  
+   间接宾语：my sister  
+   直接宾语：a doll
 
-谓语包括动词、宾语、补语等成分，因此，在对功能属性进行语法分析中用一个类术语即动词来表达谓语，很多人认为这是不合逻辑的，而建议用“谓词”(Predicator)来指谓语中的动词。
-4.3.3宾语
-宾语(Object)也是一个很难定义的概念。由于传统上主语被定义为动作的执行者，宾语也就用来指动作的接受者或目标。宾语还可进一步区分为直接宾语和间接宾语。
-例4-24
-a.Mother bought a doll.(妈妈买了一个玩具娃娃。)
+在一些屈折语言中，宾语由格标记注明：受格指直接宾语，与格则指间接宾语。在英语中，宾语可以通过它的词序关系来识别（例如在动词和介词后），也可以通过代词的屈折变化来判断。
 
-b.Mother gave my sister a doll.(妈妈给了我妹妹一个玩具娃娃。)
+**例 4-25**
+a. Mother gave a doll to my sister. (妈妈将玩具娃娃给了我妹妹。)  
+b. John kicked me. (约翰踢我。)
 
-间接宾语直接宾语
-在一些屈折语言中，宾语由格标记注明：受格指直接宾语，与格则指间接宾语。在英语中，宾语可以通过它的词序关系来识别(例如在动词和介词后),也可以通过代词的屈折变化来判断。
-例4-25
-a.Mother gave a doll to my sister.(妈妈将玩具娃娃给了我妹妹。)
+当代语言学家（如乔姆斯基和韩礼德）认为宾语是指在被动转换中可变成主语的项目。
 
-b.John kicked me.(约翰踢我。)
+**例 4-26**
+a. John broke the glass. (The glass was broken by John.)  
+   (约翰打破了玻璃杯。[玻璃杯被约翰打破了。])
+b. Peter saw Jane. (Jane was seen by Peter.)  
+   (彼得看到简了。[简被彼得看到了。])
 
-当代语言学家(如乔姆斯基和韩礼德)认为宾语是指在被动转换中可变成主语的项目。
-例4-26
-a.John broke the glass.(The glass was broken by John.)
-(约翰打破了玻璃杯。[玻璃杯被约翰打破了。])
-b.Peter saw Jane.(Jane was seen by Peter.)
+尽管在例 4-27 中有名词短语，但它们却不是宾语，因为它们不能转换成被动态。
 
-(彼得看到简了。[简被彼得看到了。])
-尽管在例4-27中有名词短语，但它们却不是宾语，因为它们不能转换成被动态。
+**例 4-27**
+a. He died last week. (上周他死了。)  
+b. The match lasted three hours. (比赛进行了三个小时。)  
+c. He changed trains at Fengtai. (*Trains were changed by him at Fengtai.*)  
+   (他在丰台站转车。)
 
-例4-27
-a.He died last week.(上周他死了。)
+## 4.3.4 词类与功能之间的关系
 
-b.The match lasted three hours.(比赛进行了三个小时。)
-
-c.He changed trains at Fengtai.(*Trains were changed by him at
-Fengtai.)(他在丰台站转车。)
-4.3.4词类与功能之间的关系
 词类和功能互相决定，但并非对应关系。一种词类可有多种功能。例如名词或名词短语可以是句子的主语、宾语、修饰语、状语和补语。
-例4-28
-a.The boys are playing football.(孩子们在踢足球。)(主语和宾语)
 
-b.the Summer Palace(颐和园)(修饰语)
-
-c.He came here last month.(上个月他来了这儿。)(状语)
-
-d.He changed trains at Fengtai.(他在丰台站转车。)(补语)
+**例 4-28**
+a. The boys are playing football. (孩子们在踢足球。) (主语和宾语)  
+b. the Summer Palace (颐和园) (修饰语)  
+c. He came here last month. (上个月他来了这儿。) (状语)  
+d. He changed trains at Fengtai. (他在丰台站转车。) (补语)
 
 同样，同一功能可以由不同的词类来完成。例如，句子的主语可以由名词、代词、数词、不定式等来充当。
-例4-29
-a.The dog is barking.(狗在吠。)(名词短语)
 
-b.We will stay here.(我们将待在这儿。)(代词)
+**例 4-29**
+a. The dog is barking. (狗在吠。) (名词短语)  
+b. We will stay here. (我们将待在这儿。) (代词)  
+c. Only two-thirds of the population here are workers. (这里仅有三分之二的人口为工人。) (数词)  
+d. To run fast can be dangerous. (快跑会有危险。) (不定式)
 
-c.Only two-thirds of the population here are workers.(这里仅有三
-分之二的人口为工人。)(数词)
-d.To run fast can be dangerous.(快跑会有危险。)(不定式)
+## 4.4 范畴
 
-4.4范畴
-在某些研究中，范畴(Category)这一术语狭义上是指词类和功能，例如名词、动词、主语、谓语、名词短语、动词短语等。更确切地说，它专门指语言单位的特性，如名词有数、性、格和可数/不可数等范畴，而动词则有时、体、态等范畴。这里我们讨论第二种意义上的语法范畴。
-4.4.1数
-数(Number)是用来分析词类的语法范畴，有单数、双数、复数等。在英语中，数主要是名词的范畴，包括两种形式：单数和复数。例如dog(狗):dogs。数还体现在代词和动词的屈折变化上。如He laughs(他笑):They laugh(他
+在某些研究中，范畴 (Category) 这一术语狭义上是指词类和功能，例如名词、动词、主语、谓语、名词短语、动词短语等。更确切地说，它专门指语言单位的特性，如名词有数、性、格和可数/不可数等范畴，而动词则有时、体、态等范畴。这里我们讨论第二种意义上的语法范畴。
 
-们笑);this man(这个人):these men(这些人)。
+### 4.4.1 数
+
+数 (Number) 是用来分析词类的语法范畴，有单数、双数、复数等。在英语中，数主要是名词的范畴，包括两种形式：单数和复数。例如 dog (狗): dogs。数还体现在代词和动词的屈折变化上。如 He laughs (他笑): They laugh (他们笑); this man (这个人): these men (这些人)。
+
 在其他语言中，如法语，形容词和冠词也有数的变化。
-例4-30
-a.le cheval royal(the royal horse)(皇家马匹)
 
-b.les chevaux royaux(the royal horses)(皇家马匹)
+**例 4-30**
+a. le cheval royal (the royal horse) (皇家马匹)  
+b. les chevaux royaux (the royal horses) (皇家马匹)
 
-4.4.2性
-性(Gender)是用来分析词类的范畴，有“阳性：阴性：中性”“有生命：无生命”等区别。当某些词涉及现实世界中实体的性别时，我们说的是它的自然性别，与此相对的是语法性别。据统计，自然性别与语法性别尽管有关
-联，但在许多情况下这种关联存在任意性，如拉丁语中的ignis(火)是阳性的，而flamma(火焰)却是阴性的。
+### 4.4.2 性
+
+性 (Gender) 是用来分析词类的范畴，有“阳性、阴性、中性”和“有生命、无生命”等区别。当某些词涉及现实世界中实体的性别时，我们说的是它的自然性别，与此相对的是语法性别。据统计，自然性别与语法性别尽管有关联，但在许多情况下这种关联存在任意性，如拉丁语中的 ignis (火) 是阳性的，而 flamma (火焰) 却是阴性的。
+
 英语里只有代词和少数名词有性的差别，并且主要属于自然性别。
-例4-31
-he :she:it(他：她：它)
-prince :princess(王子：公主)
-author :authoress(作者：女作者)
+
+**例 4-31**
+- he : she : it (他 : 她 : 它)  
+- prince : princess (王子 : 公主)  
+- author : authoress (作者 : 女作者)
+
 而在法语中，性的差别也体现在形容词和冠词上。
-例4-32
-beau cadeau(漂亮的礼物)belle maison(漂亮的房子)Le cadeau est beau.(礼物漂亮。)La maison est belle.(房子漂亮。)
+
+**例 4-32**
+- beau cadeau (漂亮的礼物)  
+- belle maison (漂亮的房子)  
+- Le cadeau est beau. (礼物漂亮。)  
+- La maison est belle. (房子漂亮。)
+
 我们得关注某些语言中性的差别，因为它有时会改变词汇意义，例如在法语中就有下面这样的例子：
-例4-33
-a.le poele(这个火炉)
-la poele(这个煎锅)
-b.le pendule(这个钟摆)
-la pendule(这个挂钟)
 
-74曰子   性(    一   个又4
-4.4.3  格
-在分析词类中，格(Case)范畴用来辨别句子中词之间的句法关系。在拉丁语法里，格是建立在词的形态变体上的，有受格(accusative)、主格(nominative)、与格(dative)等。古希腊语有五种格，梵语有八种格，而芬兰语的名词有多达十五种正式区分的格，它们都有着自身的句法功能。英语中，格是名词的一种特定形式，通常对应于介词与名词的结合，并通过三种渠道实现：a.屈折变化；b.跟在介词后；c.词序。如例4-34所示：
-例4-34
-a.teacher :teacher's(教师：教师的)
+**例 4-33**
+a. le poêle (这个火炉)  
+b. la poêle (这个煎锅)  
+c. le pendule (这个钟摆)  
+d. la pendule (这个挂钟)
 
-b.with/to a man(和/对一个男人)
+### 4.4.3 格
 
-c.John kicked Peter;Peter kicked John.(约翰踢彼得；彼得踢约翰。)
+在分析词类中，格 (Case) 范畴用来辨别句子中词之间的句法关系。在拉丁语法里，格是建立在词的形态变体上的，有受格 (accusative)、主格 (nominative)、与格 (dative) 等。古希腊语有五种格，梵语有八种格，而芬兰语的名词有多达十五种正式区分的格，它们都有着自身的句法功能。英语中，格是名词的一种特定形式，通常对应于介词与名词的结合，并通过三种渠道实现：a. 屈折变化；b. 跟在介词后；c. 词序。如例 4-34 所示：
 
-4.4.4  一致关系
-一致关系(Agreement,或协同关系[Concord])可定义为：特定词类中处于一定句法关系中的两个或两个以上的词，要求在聚合关系中有相同的标记范畴。这种句法关系可以是照应(anaphoric)关系，如代词与先行词(antecedent)应该保持一致(例4-35a);也可以是中心词和从属语之间的关系(例4-35b),如动词与主语保持一致。例4-35中c和d则是名词和动词在数上保持一致的例子：
-例4-35
-a.—Whose is this pen?(这支钢笔是谁的?)
-一Oh,it's the one I lost.(哦，正是我丢的那支。)
-b.Each person may have one coin.(每个人都可以有一枚硬币。)
+**例 4-34**
+a. teacher : teacher's (教师 : 教师的)  
+b. with / to a man (和 / 对一个男人)  
+c. John kicked Peter; Peter kicked John. (约翰踢彼得；彼得踢约翰。)
 
-c.The man runs.These men run.(那人在跑。这些人在跑。)
+### 4.4.4 一致关系
 
-d.The bird flies.These birds fly.(那只鸟飞。这些鸟飞。)
+一致关系 (Agreement, 或协同关系 [Concord]) 可定义为：特定词类中处于一定句法关系中的两个或两个以上的词，要求在聚合关系中有相同的标记范畴。这种句法关系可以是照应 (anaphoric) 关系，如代词与先行词 (antecedent) 应该保持一致 (例 4-35a); 也可以是中心词和从属语之间的关系 (例 4-35b), 如动词与主语保持一致。例 4-35 中 c 和 d 则是名词和动词在数上保持一致的例子：
 
-能够在依附成分的一致性形式中体现的中心名词特征则是我们上面提到过的：性、数和格。在法语中，性与数之间的一致性还体现在名词与形容词的关系上(比较例4-33中的后两个短语)。
+**例 4-35**
+a. — Whose is this pen? (这支钢笔是谁的？)  
+   — Oh, it's the one I lost. (哦，正是我丢的那支。)
+b. Each person may have one coin. (每个人都可以有一枚硬币。)
+c. The man runs. These men run. (那人在跑。这些人在跑。)
+d. The bird flies. These birds fly. (那只鸟飞。这些鸟飞。)
 
-4.5  短语、小可利可子
-4.5.1短语
-短语(Phrase)是包括两个或多个词的单一成分结构，它不具备小句特有的主谓结构。传统上，它被看作是结构等级的一部分，位于小句和词之间。因此，短语首先必须是组成一个成分的一组词。其次，短语在语法等级上低于小句。更确切地说，简单小句可以(并且通常)包括短语，但是简单短语(一般而言)不包括小句。
-例4-36
-the three tallest girls(三个最高的女孩)(名词短语)has been doing(已经做了)(动词短语)extremely difficult(特别困难)(形容词短语)to the door(到门口)(介词短语)very fast(很快)(副词短语)
-然而，人们倾向于区分词组(Word Group)和短语(Phrase)(特别是在功能语言学领域)。根据韩礼德(Halliday,1985),短语和词组的区别在于：词组是词的扩展，而短语则是小句的浓缩。因此，词组拥有区别性的级阶(rank)。常见的词组有名词词组、动词词组和副词词组(对应于其他理论中的名词短语、动词短语和副词短语),还有连词词组和介词词组(如：right behind,allalong)。例4-36中的to the door还是当作介词短语来看待，由介词和一个名词词组构成，而不再是一个介词。
-4.5.2小句
-拥有自身主语和谓语的成分如果被包含在较大的句子中，这个成分就是小句(Clause)。小句也可分为限定(Finite)小句和非限定(Non-finite)小句，后者包括传统的不定式短语、分词短语和动名词短语。
-例4-37
-a.The best thing would be to leave early.(最好是早点离开。)
+能够在依附成分的一致性形式中体现的中心名词特征则是我们上面提到过的：性、数和格。在法语中，性与数之间的一致性还体现在名词与形容词的关系上（比较例 4-33 中的后两个短语）。
 
-b.It's great for a man to be free.(对一个人来说，自由是很好的。)
+## 4.5 短语、小句
 
-c.Having finished their task,they came to help us.(完成任务后，
-他们来帮助我们。)
+### 4.5.1 短语
 
-d.Xiao Li being away,Xiao Wang had to do the work.(小李不在，
-小王必须做这项工作。)
-e.Filled with shame,he left the house.(他满是羞愧地离开了房子。)
+短语 (Phrase) 是包括两个或多个词的单一成分结构，它不具备小句特有的主谓结构。传统上，它被看作是结构等级的一部分，位于小句和词之间。因此，短语首先必须是组成一个成分的一组词。其次，短语在语法等级上低于小句。更确切地说，简单小句可以（并且通常）包括短语，但是简单短语（一般而言）不包括小句。
 
-f.All our savings gone,we started looking for jobs.(所有储蓄都花
-光了，我们开始找工作。)
-g.It's no use crying over spilt milk.(为洒了的牛奶而哭泣是无用的。)
+**例 4-36**
+- the three tallest girls (三个最高的女孩) (名词短语)  
+- has been doing (已经做了) (动词短语)  
+- extremely difficult (特别困难) (形容词短语)  
+- to the door (到门口) (介词短语)  
+- very fast (很快) (副词短语)
 
-h.Do you mind my opening the window?(我打开窗户你介意吗?)
+然而，人们倾向于区分词组 (Word Group) 和短语 (Phrase)（特别是在功能语言学领域）。根据韩礼德 (Halliday, 1985)，短语和词组的区别在于：词组是词的扩展，而短语则是小句的浓缩。因此，词组拥有区别性的级阶 (rank)。常见的词组有名词词组、动词词组和副词词组（对应于其他理论中的名词短语、动词短语和副词短语），还有连词词组和介词词组（如：right behind, all along）。例 4-36 中的 to the door 还是当作介词短语来看待，由介词和一个名词词组构成，而不再是一个介词。
 
-4.5.3句子
-传统上，句子(Sentence)指表达完整意义的最小语言单位。布龙菲尔德(Bloomfield,1933)把句子定义为一个“在语法结构上不会被包含在任何较大的语言形式里”的成分。句子可以在结构和功能的交叉层面上进行分类。下面是部分分类方法。传统分类法从结构上对句子进行二分，如下所示：
-简单句子(simple)句子复杂句(complex)复杂句子(non-simple)复合句(compound)
-功能分类提供如下框架：
-一般疑问句(yes/no)疑问句(interrogative)直陈句(indicative)特殊疑问句(wh-)陈述句(declarative)句子命令句(jussive)祈使句(imperative)请求句(optative)
-一些语言学家现在对话语的交际功能感兴趣，并把句子标记为“陈述”(statement)、“疑问”(question)、“命令”(command)、“请求”(request)、“肯定”(confirmation)等。以词类为基础，鲍林格(Bolinger,1981)提出五种基本的句子类型：
+### 4.5.2 小句
 
-例4-38
-a.Mother fell.(妈妈[病]倒了。)(名词词组+不及物动词)
+拥有自身主语和谓语的成分如果被包含在较大的句子中，这个成分就是小句 (Clause)。小句也可分为限定 (Finite) 小句和非限定 (Non-finite) 小句，后者包括传统的不定式短语、分词短语和动名词短语。
 
-b.Mother is young.(妈妈很年轻。)(名词词组+系词+补语)
+**例 4-37**
+a. The best thing would be to leave early. (最好是早点离开。)
+b. It's great for a man to be free. (对一个人来说，自由是很好的。)
+c. Having finished their task, they came to help us. (完成任务后，他们来帮助我们。)
+d. Xiao Li being away, Xiao Wang had to do the work. (小李不在，小王必须做这项工作。)
+e. Filled with shame, he left the house. (他满是羞愧地离开了房子。)
+f. All our savings gone, we started looking for jobs. (所有储蓄都花光了，我们开始找工作。)
+g. It's no use crying over spilt milk. (为洒了的牛奶而哭泣是无用的。)
+h. Do you mind my opening the window? (我打开窗户你介意吗？)
 
-c.Mother loves Dad.(妈妈爱爸爸。)(名词词组+及物动词+名词
-词组)
-d.Mother fed Dad breakfast.(妈妈喂爸爸早饭。)(名词词组+及物
-动词+名词词组+名词词组)
-e.There is time.(有时间。)(There+存在性动词+名词词组)
+### 4.5.3 句子
 
-夸克等(Quirk,R.et al.,1972)根据句子成分的语法功能介绍了七种句子类型。
-例4-39
-a.SVC型Mary is kind.(玛丽很善良。
+传统上，句子 (Sentence) 指表达完整意义的最小语言单位。布龙菲尔德 (Bloomfield, 1933) 把句子定义为一个“在语法结构上不会被包含在任何较大的语言形式里”的成分。句子可以在结构和功能的交叉层面上进行分类。下面是部分分类方法。
 
-a nurse.是护士。)
-b.SVA型  Mary is here.
-(玛丽在这里。
-in the house.在屋里。)
-c.SV型   The child is laughing.(孩子在笑。)
+**传统分类法** 从结构上对句子进行二分，如下所示：
+- 简单句子 (simple)  
+- 复杂句 (complex)  
+- 复合句 (compound)
 
-d.SVO型  Somebody caught the ball.(有人接住了球。)
+**功能分类** 提供如下框架：
+- 陈述句 (declarative)  
+- 疑问句 (interrogative)  
+- 祈使句 (imperative)  
+- 感叹句 (exclamatory)
 
-e.SVOC型We have proved him wrong.(我们已经证明他错了。
+一些语言学家现在对话语的交际功能感兴趣，并把句子标记为“陈述”(statement)、“疑问”(question)、“命令”(command)、“请求”(request)、“肯定”(confirmation) 等。以词类为基础，鲍林格 (Bolinger, 1981) 提出五种基本的句子类型：
 
-a fool.是傻瓜。)
-f.SVOA型I put the plate on the table.(我将盘子放在桌子上。)
+**例 4-38**
+a. Mother fell. (妈妈[病]倒了。) (名词词组 + 不及物动词)
+b. Mother is young. (妈妈很年轻。) (名词词组 + 系词 + 补语)
+c. Mother loves Dad. (妈妈爱爸爸。) (名词词组 + 及物动词 + 名词词组)
+d. Mother fed Dad breakfast. (妈妈喂爸爸早饭。) (名词词组 + 及物动词 + 名词词组 + 名词词组)
+e. There is time. (有时间。) (There + 存在性动词 + 名词词组)
 
-g.SVOO型She gives me expensive presents.(她送我昂贵的礼物。)
+夸克等 (Quirk, R. et al., 1972) 根据句子成分的语法功能介绍了七种句子类型。
 
-4.6递归性
-递归性(Recursiveness)主要指一个短语成分能被嵌入(也就是被支配)到另一个有着相同范畴的成分中。但递归性已变成一个包罗万象的术语，它涵盖若干重要的语言现象，如并列和从属现象(见4.2.4)、连接和嵌人(conjoining and embedding)现象、主从和并联(hypotactic and paratactic)现象。所有这些都是扩充句子的方法。一个句子能有多长呢?从理论上说，只要不给成功交际带来障碍，能嵌入到句子中的小句数目是无限的，这也适用于名词性小句和副词性小句。这就是我们所说的递归性。例如，例4-40是可能的。
+**例 4-39**
+a. SVC 型  
+   Mary is kind. (玛丽很善良。)  
+   Mary is a nurse. (玛丽是护士。)
+b. SVA 型  
+   Mary is here. (玛丽在这里。)  
+   Mary is in the house. (玛丽在屋里。)
+c. SV 型  
+   The child is laughing. (孩子在笑。)
+d. SVO 型  
+   Somebody caught the ball. (有人接住了球。)
+e. SVOC 型  
+   We have proved him wrong. (我们已经证明他错了。)  
+   We found him a fool. (我们发现他是傻瓜。)
+f. SVOA 型  
+   I put the plate on the table. (我将盘子放在桌子上。)
+g. SVOO 型  
+   She gives me expensive presents. (她送我昂贵的礼物。)
 
-例4-40
-I met a man who had a son whose wife sold cookies that she hadbaked in her kitchen that was fully equipped with electrical appliancesthat were new.(我遇见一个人，这人有个儿子，儿子的妻子卖饼干，饼干是她在厨房里烘烤的，厨房配备全套电器，电器都是新的。)
+## 4.6 递归性
+
+递归性 (Recursiveness) 主要指一个短语成分能被嵌入（也就是被支配）到另一个有着相同范畴的成分中。但递归性已变成一个包罗万象的术语，它涵盖若干重要的语言现象，如并列和从属现象（见 4.2.4）、连接和嵌入 (conjoining and embedding) 现象、主从和并联 (hypotactic and paratactic) 现象。所有这些都是扩充句子的方法。一个句子能有多长呢？从理论上说，只要不给成功交际带来障碍，能嵌入到句子中的小句数目是无限的，这也适用于名词性小句和副词性小句。这就是我们所说的递归性。例如，例 4-40 是可能的。
+
+**例 4-40**
+I met a man who had a son whose wife sold cookies that she had baked in her kitchen that was fully equipped with electrical appliances that were new.  
+(我遇见一个人，这人有个儿子，儿子的妻子卖饼干，饼干是她在厨房里烘烤的，厨房配备全套电器，电器都是新的。)
+
 递归性和开放性一般被看作语言创造性的核心。
-例4-41
-a.John's sister(约翰的姐姐)
-John's sister's husband(约翰姐姐的丈夫)John's sister's husband's uncle(约翰姐姐的丈夫的叔叔)John's sister's husband's uncle's daughter,etc.(约翰姐姐的丈夫的叔叔的女儿，等等)
-b.that house in Beijing(北京的那座房子)
-the garden of that house in Beijing(北京那座房子的花园)the tree in the garden of that house in Beijing(北京那座房子的花园的那棵树)a bird on the tree in the garden of that house in Beijing(北京那座房子的花园的那棵树上的一只鸟)
-4.6.1连接
-连接(Conjoining)指的是一个小句与其他小句并列或连接的过程。通过这种方式组成的句子可理解为并列句。常用的连词有and,but和or。
-例4-42
-a.John bought a hat and his wife bought a handbag.(约翰买了一顶
-帽子，而他的妻子买了一个手提包。)
-b.Give me liberty or give me death.(不自由，毋宁死。)
 
-4.6.2  嵌入
-小句既可以是独立的也可以是非独立的。当把一个小句当作非独立小句进行嵌入时，其实就是将这个句子与另一个句子相结合。嵌入(Embedding)指的是将小句包含到句子(主句)里使其在句法上处于从属地位的一种方式。从句的三种基本类型包括关系从句、补语从句和状语从句(或副词从句)。
+**例 4-41**
+a. John's sister (约翰的姐姐)  
+   John's sister's husband (约翰姐姐的丈夫)  
+   John's sister's husband's uncle (约翰姐姐的丈夫的叔叔)  
+   John's sister's husband's uncle's daughter, etc. (约翰姐姐的丈夫的叔叔的女儿，等等)
+b. that house in Beijing (北京的那座房子)  
+   the garden of that house in Beijing (北京那座房子的花园)  
+   the tree in the garden of that house in Beijing (北京那座房子的花园的那棵树)  
+   a bird on the tree in the garden of that house in Beijing (北京那座房子的花园的那棵树上的一只鸟)
+
+### 4.6.1 连接
+
+连接 (Conjoining) 指的是一个小句与其他小句并列或连接的过程。通过这种方式组成的句子可理解为并列句。常用的连词有 and, but 和 or。
+
+**例 4-42**
+a. John bought a hat and his wife bought a handbag. (约翰买了一顶帽子，而他的妻子买了一个手提包。)
+b. Give me liberty or give me death. (不自由，毋宁死。)
+
+### 4.6.2 嵌入
+
+小句既可以是独立的也可以是非独立的。当把一个小句当作非独立小句进行嵌入时，其实就是将这个句子与另一个句子相结合。嵌入 (Embedding) 指的是将小句包含到句子（主句）里使其在句法上处于从属地位的一种方式。从句的三种基本类型包括关系从句、补语从句和状语从句（或副词从句）。
+
