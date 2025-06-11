@@ -1,271 +1,416 @@
-第三章
+### 第三章 词与形态学
 
-词与形态学
-词可能是我们学习母语时最早掌握的语言成分。儿童在能够说出完整的句子前，已经掌握了一定数量的词汇。据估计，英语国家六岁儿童掌握的词汇已约达13,000个(Fromkin,et al.2014:33)。词构成了语言最基本的单位。通过词的组合，我们可以形成词组，进而构造句子。因此，要了解词组和句子，我们有必要先对词的性质有准确的把握。本章将概览词的本质及其内在结构，以便对词在语言学框架内的性质和地位有基本的了解。
-3.1词的性质
-3.1.1  什么是词?
-尽管我们每个人都掌握丰富的词汇，但是面对“什么是词”这样的问题时，仍不免感到困惑。为了给词下一个初步的定义，让我们先来看下面各类成分，思考其中哪些可以被称作“词”。
-例3-1
-gaatcoomgaotcoomgaot-er(例如teacher)dis-(例如dislike)un-(例如unhappy)take upraise your handscome over
-我们会感觉以上各例没有一个成分是词。但是究竟是什么因素让我们做出这个判断呢?第一行的三个成分不能称作词。尽管一个说英语的人可以尝试把这三个成分都读出来，但它们都没有任何意义。由此我们认识到词与意义相关。但如果我们因此而给词下定义，认为词是有意义的单位，我们就无法排除第二行中的成分，因为第二行中的各个成分都有意义。比如，-er在teacher(老师),murderer(杀人犯)中的语义是指称动词所表达的事件的发出者。但我们也知道，-er并不是词，dis-和un-也不是。通过将这类成分从词中排除，我们发现，词并不总是最小的语义单位；有时，词可以进一步切分为几个更小
+#### 3.1 词的性质
 
-的语义单位，如上文中的teacher。为此我们需要引入语素(Morpheme)的概念来进一步探究如何给词下定义。语素是语言中最小的有意义的单位。我们发现，单一语素有时可以独立成词，如walk;但有时又必须要依附于其他成分才能构成词，如-er和dis-,这样构成的词就包含不止一个语素。
-引入“语素”的概念后，我们可以对词作如下定义：词是包含一个或者更多语素且能独立出现的最小的语言成分。只包含一个语素的词，如boy和teach,称为简单词(Simple Word);包含不止一个语素的词，如boyhood和teacher,称为复杂词(Complex Word)。第一行中的成分不是词，是因为它们没有包含语素。这些成分都没有任何语义，而语素则是有意义的单位。第二行中的例子不是词，是因为这些成分不能独立出现。第三行中的成分也不是词，是因为每一个成分都包含了不止一个可以独立出现的有意义的单位，它们不是最小的能独立出现的语言成分。
-上文有关词的定义看似合理，但我们需要再进一步问一个问题：究竟如何理解这个定义中的“独立出现”呢?以英语为例，首先，词在音系意义上可以独立出现，因为一个词代表一个没有停顿的音系区域。比如，当说I lovelinguistics(我爱语言学)时，停顿一般情况下出现在词与词之间：I /love/linguistics。
-其次，词在结构层面可以独立出现，我们不能在词中间插入另外一个词。我们可以说this teacher(这个老师),但不能说tea-this-cher。但需要注意的是，有些语言中，词缀(Affix)可以嵌入一个词中而构成新词，我们将在3.2小节具体介绍这个现象以及不同种类的词缀。我们暂时可以将词缀理解为诸如teacher中的-er和teaching中的-ing这样的语素，这些语素必须要黏附于某个词出现。
-最后，词在语法层面可以单独出现。词是填充话语中一个词类位置的最小填充单位。我们在3.3.1会具体讨论词类(Category)问题，现在，我们暂时将“词类”理解为我们所说的“名词”“动词”“形容词”等的名称。Teacher是一个词，因为这是填充名词位置的最小单位。这个词本身所包含的两个语素teach和-er在此处都不是词。比如，teach(教)本身可以独立做动词出现，此时可被副词修饰，如he teaches linguistics excellently(他语言学教得非常好),但是teacher却绝对不能被副词修饰，我们可以说an excellentteacher(一位优秀的老师),但an excellently teacher就不行。这是因为teacher是一个单一的词，此时teach只是词中的一个语素而非一个独立的动词，因此无法获得副词的修饰。
-通过使用语素这个概念，我们大致形成了词的定义。现在，我们需要引入另一个概念——词位(Lexeme)——来进一步理解词的特性。请阅读如下句子，并思考一个简单的问题：这句话一共包含多少个词?
+##### 3.1.1 什么是词？
 
-例3-2
-That student walked into the classroom while the other studentswere walking out.(那个学生走进了教室，当时，其他学生正从教室走出来。)
-如果你的答案是12,那么是将student(学生)和students以及walked(走路)和walking各自当作不同的词。如果答案是10,则上面每组中的两个词都被当作了同一个词。为了理清这一混乱的状况，我们需要区分抽象层面的词和句子中实际使用的词。前者我们称之为“词位”。以上例子中，walked和walking是同一个词位WALK的不同“词语形式”(Word Form),student和students则是同一个词位STUDENT的不同词语形式。我们可以把词位理解为多个词语形式的一个“家族”,这些词语形式在词尾的语法标记上有差异，包括数(Number)、格(Case)、时(Tense)、分词形式(Participle Form)等。下面列出了更多词位和词语形式的例子：
-例3-3
-词位词语形式buy(买)buyboughtbuyingeat(吃)eatateeateneatingapple(苹果)appleapplesI(我)工me
-3.1.2实义词和功能词
-语言学家们对词做的一个重要分类是区分实义词(Content Word)和功能词(Function Word)。请看下面的例子：
-例3-4
-实义词
-名词(noun):
-tiger(老虎)
-动词(verb):
-drink(饮用)
-形容词(adjective):big(大)
-副词(adverb):
-slowly(慢慢地)
-panda(熊猫)hammer(锤打)pretty(漂亮)crazily(疯狂地)
-功能词标句词(complementiser):that whether代词(pronoun):I we you he she they冠词(article):a/an the
+尽管我们每个人都掌握丰富的词汇，但面对“什么是词”这样的问题时，仍不免感到困惑。为了给词下一个初步的定义，让我们先来看下面各类成分，思考其中哪些可以被称作“词”。
 
-指示词(demonstrative):this that these those助动词(auxiliary verb):will do be have介词(preposition):in on before behind of连接词(conjunction):   and but or either...o...neither..nor...
-实义词表达具体的意义。典型的名词常指称世界中的具体事物，如tiger(老虎),panda(熊猫);当然，名词也能指称抽象的概念，如impression(印象),justice(正义)。典型的动词常常描述动态的活动，如drink,hammer;当然，动词也可以描述心理状态，如1ove(爱)和worry(担心)。形容词常表达事物的属性，如handsome(英俊),cold(寒冷),而副词常常用来修饰动词，提供行动的方式、时间或者方位信息。很多英语副词来源于形容词，即在形容词尾添加语素-1y,如slow(缓慢的)-slowly,quick(快速的)-quickly,elegant(优雅的)-elegantly。但也有些副词并不包含形容词在内，如下面的例子(斜体词为副词):
-例3-5
-a.This plan was wellimplemented.(这个计划得以很好地实施。)
+**例3-1**
+- gaat
+- coom
+- gaot
+- -er（例如teacher）
+- dis-（例如dislike）
+- un-（例如unhappy）
+- take up
+- raise your hands
+- come over
 
-b.John almost finished this dissertation within one week.(约翰几
-乎在一周内完成了毕业论文。)
-c.I saw John yesterday,when he was very happy.(我昨天看到约翰
-了，他非常开心。)
-d.Now he has decided to work hard.(他现在决定要努力工作。)
+我们会感觉以上各例没有一个成分是词。但究竟是什么因素让我们做出这个判断呢？
 
-微再微信微信微博I微畴iPhone acebook naiemall-cl微信Twitter效信微倍数nzil博TwTwiter
-这些词之所以叫作实义词，是因为它们有实在的语义。词库中的实义词可以不断增加，因此这类词也称作开放类词(Open Class Words)。我们可以非常容易地想到近几年进入英语词库的新词，如iPhone(苹果手机，名词),blog(博客、更新博客
-内容，名词、动词),email(电子邮件、发电子邮件，名词、动词)。汉语中的新词也很容易想到，如“微博”(名词)、“给力”(形容词)等。这些新词都是实义词。
+1. **第一行的三个成分**不能称作词。尽管一个说英语的人可以尝试把这三个成分都读出来，但它们都没有任何意义。由此我们认识到词与意义相关。
+2. **第二行的各个成分**都有意义。例如，-er在teacher（老师）、murderer（杀人犯）中的语义是指称动词所表达的事件的发出者。但我们也知道，-er并不是词，dis-和un-也不是。通过将这类成分从词中排除，我们发现，词并不总是最小的语义单位；有时，词可以进一步切分为几个更小的语义单位，如上文中的teacher。为此我们需要引入语素（Morpheme）的概念来进一步探究如何给词下定义。
+
+**语素**是语言中最小的有意义的单位。我们发现，单一语素有时可以独立成词，如walk；但有时又必须依附于其他成分才能构成词，如-er和dis-，这样构成的词就包含不止一个语素。
+
+引入“语素”的概念后，我们可以对词作如下定义：**词是包含一个或者更多语素且能独立出现的最小的语言成分**。只包含一个语素的词，如boy和teach，称为**简单词（Simple Word）**；包含不止一个语素的词，如boyhood和teacher，称为**复杂词（Complex Word）**。第一行中的成分不是词，是因为它们没有包含语素。这些成分都没有任何语义，而语素则是有意义的单位。第二行中的例子不是词，是因为这些成分不能独立出现。第三行中的成分也不是词，是因为每一个成分都包含了不止一个可以独立出现的有意义的单位，它们不是最小的能独立出现的语言成分。
+
+上文有关词的定义看似合理，但我们需要再进一步问一个问题：**究竟如何理解这个定义中的“独立出现”呢？**
+
+以英语为例：
+
+1. **词在音系意义上可以独立出现**，因为一个词代表一个没有停顿的音系区域。比如，当说I love linguistics（我爱语言学）时，停顿一般情况下出现在词与词之间：I / love / linguistics。
+2. **词在结构层面可以独立出现**，我们不能在词中间插入另外一个词。我们可以说this teacher（这个老师），但不能说tea-this-cher。但需要注意的是，有些语言中，词缀（Affix）可以嵌入一个词中而构成新词，我们将在3.2小节具体介绍这个现象以及不同种类的词缀。我们暂时可以将词缀理解为诸如teacher中的-er和teaching中的-ing这样的语素，这些语素必须要黏附于某个词出现。
+3. **词在语法层面可以单独出现**。词是填充话语中一个词类位置的最小填充单位。我们在3.3.1会具体讨论词类（Category）问题，现在，我们暂时将“词类”理解为我们所说的“名词”“动词”“形容词”等的名称。Teacher是一个词，因为这是填充名词位置的最小单位。这个词本身所包含的两个语素teach和-er在此处都不是词。比如，teach（教）本身可以独立做动词出现，此时可被副词修饰，如he teaches linguistics excellently（他语言学教得非常好），但是teacher却绝对不能被副词修饰，我们可以说an excellent teacher（一位优秀的老师），但an excellently teacher就不行。这是因为teacher是一个单一的词，此时teach只是词中的一个语素而非一个独立的动词，因此无法获得副词的修饰。
+
+通过使用语素这个概念，我们大致形成了词的定义。现在，我们需要引入另一个概念——**词位（Lexeme）**——来进一步理解词的特性。
+
+请阅读如下句子，并思考一个简单的问题：这句话一共包含多少个词？
+
+**例3-2**
+- That student walked into the classroom while the other students were walking out.（那个学生走进了教室，当时，其他学生正从教室走出来。）
+
+如果你的答案是12，那么是将student（学生）和students以及walked（走路）和walking各自当作不同的词。如果答案是10，则上面每组中的两个词都被当作了同一个词。为了理清这一混乱的状况，我们需要区分抽象层面的词和句子中实际使用的词。前者我们称之为“词位”。以上例子中，walked和walking是同一个词位WALK的不同“词语形式”（Word Form），student和students则是同一个词位STUDENT的不同词语形式。我们可以把词位理解为多个词语形式的一个“家族”，这些词语形式在词尾的语法标记上有差异，包括数（Number）、格（Case）、时（Tense）、分词形式（Participle Form）等。下面列出了更多词位和词语形式的例子：
+
+**例3-3**
+| 词位 | 词语形式         |
+|------|------------------|
+| buy  | buy, bought, buying |
+| eat  | eat, ate, eaten, eating |
+| apple| apple, apples    |
+| I    | I, me            |
+
+##### 3.1.2 实义词和功能词
+
+语言学家们对词做的一个重要分类是区分**实义词（Content Word）**和**功能词（Function Word）**。请看下面的例子：
+
+**例3-4**
+
+**实义词**
+- 名词（noun）: tiger（老虎）、panda（熊猫）
+- 动词（verb）: drink（饮用）、hammer（锤打）
+- 形容词（adjective）: big（大）、pretty（漂亮）
+- 副词（adverb）: slowly（慢慢地）、crazily（疯狂地）
+
+**功能词**
+- 标句词（complementiser）: that, whether
+- 代词（pronoun）: I, we, you, he, she, they
+- 冠词（article）: a/an, the
+- 指示词（demonstrative）: this, that, these, those
+- 助动词（auxiliary verb）: will, do, be, have
+- 介词（preposition）: in, on, before, behind, of
+- 连接词（conjunction）: and, but, or, either...or, neither...nor
+
+实义词表达具体的意义。典型的名词常指称世界中的具体事物，如tiger（老虎）、panda（熊猫）；当然，名词也能指称抽象的概念，如impression（印象）、justice（正义）。典型的动词常常描述动态的活动，如drink（喝）、hammer（锤打）；当然，动词也可以描述心理状态，如love（爱）和worry（担心）。形容词常表达事物的属性，如handsome（英俊）、cold（寒冷），而副词常常用来修饰动词，提供行动的方式、时间或者方位信息。很多英语副词来源于形容词，即在形容词尾添加语素-ly，如slow（缓慢的）-slowly，quick（快速的）-quickly，elegant（优雅的）-elegantly。但也有些副词并不包含形容词在内，如下面的例子（斜体词为副词）：
+
+**例3-5**
+a. This plan was *well* implemented.（这个计划得以很好地实施。）
+b. John *almost* finished this dissertation within one week.（约翰几乎在一周内完成了毕业论文。）
+c. I saw John *yesterday*, when he was very happy.（我昨天看到约翰了，他非常开心。）
+d. *Now* he has decided to work hard.（他现在决定要努力工作。）
+
+这些词之所以叫作实义词，是因为它们有实在的语义。词库中的实义词可以不断增加，因此这类词也称作**开放类词（Open Class Words）**。我们可以非常容易地想到近几年进入英语词库的新词，如iPhone（苹果手机，名词）、blog（博客、更新博客内容，名词、动词）、email（电子邮件、发电子邮件，名词、动词）。汉语中的新词也很容易想到，如“微博”（名词）、“给力”（形容词）等。这些新词都是实义词。
+
 实义词由于带有具体的语义信息，对英语为母语的人来说，让他们解释tiger或者drink的意思并不困难。但如果让他们解释功能词的意义，则往往会被难住。请看下面的例子：
 
-例3-6
-John knows that Mary is smart.(约翰知道玛丽很聪明。)
-以上例子中的that是什么意思?母语者一般很难立即给出一个答案，因为要给这类功能词提供明确的意义非常困难。事实上，例子中的that不传达任何语义。在这句话中使用这个词不是为了传达具体的意义，而是为了满足语法功能的需求。本例中，that的功能是引导一个从句作为know的宾语。此外，that也表明，它所引导的句子是陈述句而非疑问句。
-功能词中另一重要的类别是代词。代词的功能是指代前句或者语境中已经明确的实体。请看下面的例子(斜体词为代词):
-例3-7
-a.That man is famous in his university;everybody.knows him.(那
-个人在他的大学里非常出名，每个人都认识他。)
-b.He is my teacher of linguistics!(The speaker is pointing to the
-man entering the lecture hall.)(他是我的语言学老师![说话者说话时指着正在走入报告厅的人。])
-c.It is raining outside.(外面下雨了。)
+**例3-6**
+John knows that Mary is smart.（约翰知道玛丽很聪明。）
 
-以上a例中，him指称的人也是前句中名词短语that man所指称的，后者是前者的先行语(Antecedent)。在b例中，he指称的人不依赖于任何先行语，但说话人和听话人都可以在当下语境中了解到这个代词的指称对象。因此，我们可以说，代词不能独立指称某一实体，而需要和先行语共指(Co-refer),或者依赖于语境中的实体。我们也需要注意，在英语中，代词并不总是有指称对象。比如c例中，使用代词it仅仅是为了满足英语语法的要求，即需要有词语填充主语位置。这样的用法并非所有语言都有，比如汉语就没有用无指称对象的代词填充主语位置的语法要求。这一跨语言差异的内在原因，学界并没有定论，我们可以在未来研究中对此做出贡献。
-指示词(如this和that)以及冠词(如a和the)也属于功能词。这两类词在英语的句中都出现在名词前，作用是锚定(anchor)名词所指称的实体。
-例3-8
-a.This boy is my student,but that lady is my teacher.(这个男孩是
-我的学生，但那位女士是我的老师。)
-b.Finally he finished writing the paper.(他终于完成了这篇论文。)
+以上例子中的that是什么意思？母语者一般很难立即给出一个答案，因为要给这类功能词提供明确的意义非常困难。事实上，例子中的that不传达任何语义。在这句话中使用这个词不是为了传达具体的意义，而是为了满足语法功能的需求。本例中，that的功能是引导一个从句作为know的宾语。此外，that也表明，它所引导的句子是陈述句而非疑问句。
 
-在a例中，this和that帮助听话人明确男孩和女士所处的方位：this表明男孩离说话人更近；that表明女士离说话人更远。b例中，冠词the表明，本句
+功能词中另一重要的类别是代词。代词的功能是指代前句或者语境中已经明确的实体。请看下面的例子（斜体词为代词）：
 
-中的“论文”在之前已经被提及，因此是说话人和听话人已知的信息。指示词和冠词都被称为限定词(Determiner)①。
-助动词的定义完全依据其语法表现。首先，在英语中，助动词总是出现在动词前：
-例3-9
-a.John is reading a novel.(约翰在阅读一本小说。)
+**例3-7**
+a. That man is famous in his university; everybody knows *him*.（那个人在他的大学里非常出名，每个人都认识他。）
+b. *He* is my teacher of linguistics! （The speaker is pointing to the man entering the lecture hall.）（他是我的语言学老师![说话者说话时指着正在走入报告厅的人。]）
+c. *It* is raining outside.（外面下雨了。）
 
-b.He will choose syntax as the research field of his doctoral study.
-(他将选择句法作为博士研究的领域。)
-c.He can provide very important help to his students in academic
-research.(他可以给他学生在学术研究方面提供非常重要的帮助。)
-d.John has paid full attention to the latest issues in his field.(约翰
-已经全力关注了他领域内最新的研究问题。)
+以上a例中，him指称的人也是前句中名词短语that man所指称的，后者是前者的先行语（Antecedent）。在b例中，he指称的人不依赖于任何先行语，但说话人和听话人都可以在当下语境中了解到这个代词的指称对象。因此，我们可以说，代词不能独立指称某一实体，而需要和先行语共指（Co-refer），或者依赖于语境中的实体。我们也需要注意，在英语中，代词并不总是有指称对象。比如c例中，使用代词it仅仅是为了满足英语语法的要求，即需要有词语填充主语位置。这样的用法并非所有语言都有，比如汉语就没有用无指称对象的代词填充主语位置的语法要求。这一跨语言差异的内在原因，学界并没有定论，我们可以在未来研究中对此做出贡献。
+
+指示词（如this和that）以及冠词（如a和the）也属于功能词。这两类词在英语的句中都出现在名词前，作用是锚定（anchor）名词所指称的实体。
+
+**例3-8**
+a. This boy is my student, but that lady is my teacher.（这个男孩是我的学生，但那位女士是我的老师。）
+b. Finally he finished writing the paper.（他终于完成了这篇论文。）
+
+在a例中，this和that帮助听话人明确男孩和女士所处的方位：this表明男孩离说话人更近；that表明女士离说话人更远。b例中，冠词the表明，本句中的“论文”在之前已经被提及，因此是说话人和听话人已知的信息。指示词和冠词都被称为限定词（Determiner）。
+
+**助动词**的定义完全依据其语法表现。首先，在英语中，助动词总是出现在动词前：
+
+**例3-9**
+a. John is reading a novel.（约翰在阅读一本小说。）
+b. He will choose syntax as the research field of his doctoral study.（他将选择句法作为博士研究的领域。）
+c. He can provide very important help to his students in academic research.（他可以给他学生在学术研究方面提供非常重要的帮助。）
+d. John has paid full attention to the latest issues in his field.（约翰已经全力关注了他领域内最新的研究问题。）
+
 其次，助动词可以放在句首，形成一般疑问句：
-例3-10
-a.Is John reading a novel?(约翰在阅读一本小说吗?)
 
-b.Will he choose syntax as the research field of his doctoral study?
-(他将选择句法作为博士研究的领域吗?)
-c.Can he provide very important help to his students in academic
-research?(他可以给他学生在学术研究方面提供非常重要的帮助吗?)
-d.Has John paid full attention to the latest issues in his field?(约翰
-已经全力关注了他领域内最新的研究问题吗?)
-介词常常用来表达物体或者事件与方位的关系；但也有时候，介词表达的关系相当抽象。
-例3-11
-a.The 2016 Summer Olympics was held in Rio de Janeiro.(2016年
-夏季奥运会在里约热内卢举办。)
-b.John does not drink coffee at night.(约翰晚上不喝咖啡。)
+**例3-10**
+a. Is John reading a novel?（约翰在阅读一本小说吗？）
+b. Will he choose syntax as the research field of his doctoral study?（他将选择句法作为博士研究的领域吗？）
+c. Can he provide very important help to his students in academic research?（他可以给他学生在学术研究方面提供非常重要的帮助吗？）
+d. Has John paid full attention to the latest issues in his field?（约翰已经全力关注了他领域内最新的研究问题吗？）
 
-c.She knows much on Chomskyan linguistics.(他对乔姆斯基语言
-学了解很多。)
-①需要说明的是，this,that这样的成分也可以充当代词(如this is my friend [这是我的朋友]中的this)。此节讨论的指示词特指位于名词前充当限定词的成分。
+**介词**常常用来表达物体或者事件与方位的关系；但也有时候，介词表达的关系相当抽象。
 
-d.Linguistics is sometimes considered as a discipline of science.(有
-时候，人们将语言学当作一门科学领域的学科。)
-例a和例b中的介词in和at分别表达事件与地点、时间的关系。例c和例d中on和of表达的关系则更抽象，我们可以大致认为，on表达的是“关于”关系，而of表达的是“部分一整体”关系。
-另外一类功能词是连词，用于连接词、词组或者小句。以下例子中的连接词分别连接了词、词组和小句：
-例3-12
-a.This room is small but elegant.(这个房间很小，但是很优雅。)
+**例3-11**
+a. The 2016 Summer Olympics was held in Rio de Janeiro.（2016年夏季奥运会在里约热内卢举办。）
+b. John does not drink coffee at night.（约翰晚上不喝咖啡。）
+c. She knows much on Chomskyan linguistics.（她对乔姆斯基语言学了解很多。）
+d. Linguistics is sometimes considered as a discipline of science.（有时候，人们将语言学当作一门科学领域的学科。）
 
-b.One cannot work in China and in the UK simultaneously.(一个
-人不能同时在中国和英国工作。)
-c.You should concentrate on your research,or you will find it
-difficult to pass your viva.(你应该专注于你的研究，否则你很难通过你的毕业论文答辩。)
-根据前文的描述，我们发现，只有将功能词置于句子中才能讨论它们的意义和功能，因此很难给这些词提供一个精确的定义。这样我们就可以理解为什么 that这类词称为功能词，因为它们的核心功能是满足语法的要求，而具体的语义则不是必要的部分。因此，功能词属于语法体系的核心部分。例如，上述that的用法是英语语法的一部分，属于“如何说英语”的知识。相反，如果不知道某一个实义词的语义，并不会影响一个人说英语的能力。比如，一个人即使不知道英语单词laptop(笔记本电脑),也仍有可能英语说得非常好。
-功能词相对较为稳定，一种语言的词库很少增加新的功能词。因此，功能词也被称为封闭类词(Closed Class Words)。以代词为例，英语等语言中，有
-第一人称、第二人称、第三人称单数和复数代词，比如I,we,you,he,she和
-they,以及各自的宾格形式me,us,you,him,her和them。尽管几乎每天都有新的发明出现，使大量新的实义词进入词库，但这些变化并不会影响我们指称人和物的方式，也不会增加新的代词。不过，有时由于种种原因，也会有新的功能词进入某个语言。以汉语为例，书面语代词“她”在现代汉语中是第三人称、阴性、单数人称代词。这个代词直到20世纪20年代才出现，由语言学家、诗人刘半农在他创作的歌词中首创。尽管代词“她”成功进入了汉语词库，但总体来说，这样的成功案例非常有限。Harley(2006:118)曾指出，数年前，人们曾试图在英语中引入一个中性的单数代词sie;有了这个代词，当人们要指称一个性别不明确的人时，就可以不需要借助he或she。比如这个例子：When one begins a career in academia,sie has to write papers(当一个人
+例a和例b中的介词in和at分别表达事件与地点、时间的关系。例c和例d中on和of表达的关系则更抽象，我们可以大致认为，on表达的是“关于”关系，而of表达的是“部分—整体”关系。
 
-言子教性(       T又代1
-40
-开始了学术生涯，sie[中性代词]需要写论文)。从性别平等的角度来看，这个代词的引入非常有意义。但是到目前为止，sie也没有被接受为英语词库中的一员。从语言学角度来看，造成这个现象的直接原因在于，和实义词不同，功能词倾向于保持稳定。
+另一类功能词是**连词**，用于连接词、词组或者小句。以下例子中的连接词分别连接了词、词组和小句：
+
+**例3-12**
+a. This room is small but elegant.（这个房间很小，但是很优雅。）
+b. One cannot work in China and in the UK simultaneously.（一个人不能同时在中国和英国工作。）
+c. You should concentrate on your research, or you will find it difficult to pass your viva.（你应该专注于你的研究，否则你很难通过你的毕业论文答辩。）
+
+根据前文的描述，我们发现，只有将功能词置于句子中才能讨论它们的意义和功能，因此很难给这些词提供一个精确的定义。这样我们就可以理解为什么that这类词称为功能词，因为它们的核心功能是满足语法的要求，而具体的语义则不是必要的部分。因此，功能词属于语法体系的核心部分。例如，上述that的用法是英语语法的一部分，属于“如何说英语”的知识。相反，如果不知道某一个实义词的语义，并不会影响一个人说英语的能力。比如，一个人即使不知道英语单词laptop（笔记本电脑），也仍有可能英语说得非常好。
+
+功能词相对较为稳定，一种语言的词库很少增加新的功能词。因此，功能词也被称为**封闭类词（Closed Class Words）**。以代词为例，英语等语言中有第一人称、第二人称、第三人称单数和复数代词，比如I, we, you, he, she, they，以及各自的宾格形式me, us, you, him, her, them。尽管几乎每天都有新的发明出现，使大量新的实义词进入词库，但这些变化并不会影响我们指称人和物的方式，也不会增加新的代词。不过，有时由于种种原因，也会有新的功能词进入某个语言。以汉语为例，书面语代词“她”在现代汉语中是第三人称、阴性、单数人称代词。这个代词直到20世纪20年代才出现，由语言学家、诗人刘半农在他创作的歌词中首创。尽管代词“她”成功进入了汉语词库，但总体来说，这样的成功案例非常有限。Harley（2006:118）曾指出，数年前，人们曾试图在英语中引入一个中性的单数代词sie；有了这个代词，当人们要指称一个性别不明确的人时，就可以不需要借助he或she。例如：When one begins a career in academia, sie has to write papers（当一个人开始了学术生涯，sie[中性代词]需要写论文）。从性别平等的角度来看，这个代词的引入非常有意义。但是到目前为止，sie也没有被接受为英语词库中的一员。从语言学角度来看，造成这个现象的直接原因在于，和实义词不同，功能词倾向于保持稳定。
+
 要表达一个句子完整的意义，实义词和功能词都必不可少。我们需要实义词来表达实体、性质和事件。功能词则一方面帮助我们精确这些意义，另一方面将这些实义词串起来构成符合语法的句子。以下面第一个例子中的定冠词the为例，这个功能词表明实义词book所表达的实体“书”是旧信息，即说话人与听话人都知道这本书的存在。不定冠词a则表明，在说这句话前，听话人并不知道这本书的存在。显然，这两个功能词精确化了实义词表达的信息。
-例3-13
-a.John bought the book yesterday.(约翰昨天买了这本书。①)
 
-b.John bought a book yesterday.(约翰昨天买了一本书。)
+**例3-13**
+a. John bought the book yesterday.（约翰昨天买了这本书。）
+b. John bought a book yesterday.（约翰昨天买了一本书。）
 
 功能词的另外一个重要功能是将独立的一个个实义词串起来，构成符合语法的句子。请看下面的例子：
-例3-14
-John knew that Mary was to be present at the conference.(约翰知道玛丽将出席会议。)
+
+**例3-14**
+John knew that Mary was to be present at the conference.（约翰知道玛丽将出席会议。）
+
 以上例子中，尽管句子的具体意义主要来自于实义词，但仅靠这些词无法构成一个符合语法的句子。我们需要功能词将这些实义词组合起来。从这个角度来看，功能词就像胶水，起到将词和词组黏合起来的作用。
-3.2语素的种类
-有的词可以进一步划分出更小的单位。例如我们知道popularise和teacher是由更小的语义单位构成的。在3.1中，我们已经提到，这些更小的语义单位是语素，它们是词内部最小的有意义的成分。本节中，我们将介绍不同类型的语素，以便进一步理解词是如何形成的。构成popularise的两个语素popular和-ise的差别在于是否能够独立出现。尽管在popularise中，popular是词的一个部分，但这个语素本身也可以独立作为一个词出现。而
-①汉语中没有和英文the完全对等的冠词，我们的中文翻译“这本书”只能尽量贴近英文原文的意义，但实际上，与汉语“这”对应的是英文的指示词this/these,当然，汉语的指示词“这”“那”没有明确的单复数数量特征(number feature)。本章中其他例句的中文翻译也都不一定贴合英文原句的结构，中文翻译的目的是帮助读者更好地理解这些句子的意义。
 
-popularise的另外一个部分-ise,则不能作为一个词单独出现。这个语素必须黏附到其他语素上，如在popularise,naturalise,crystallise中，-ise要分别黏附到popular,natural和crystal上。同样，teach能独立成词，但-er不能。像popular和teach这样可以独立成词的语素称为自由语素(Free Morphemes),而-ise和-er这样不能独立成词的语素则称为黏着语素(Bound Morphemes)。
-任何词都包含词根(Root),它是一个词构成的基础。比如enable,astronomy和linguist的词根分别是-able,astro-和lingu-。部分词根，如astro-和lingu-,无法独立成词，为黏着词根(Bound Roots)。当词根和黏着语素结合时，就形成了词干(Stem)。词干既可以是独立的词，也可以作为基础与其他黏着语素构成新词。①
-例3-15
-词根：nature(自然)
-词干：natural(自然的)(名词+词缀-al)
-词干：naturalise(使加入国籍)(形容词+词缀-ise)
-词根：construct(建设)
-词干：construction(建筑)(动词+词缀-ion)
-词干：constructional(建筑的)(名词+词缀-al)
-简单理解，词干就是一个词去掉屈折词缀之后的部分。我们在下文会解释什么是屈折词缀。我们暂时可以将它们理解成黏附在词上的语法标记，比如时标记(英语中的-d和-ed)、分词标记(英语中的-ed和-ing)。这样，我们就可以说naturalising,naturalises和naturalised都包含同样的词干naturalise。
-一个词缀(Affix),即无法作为词根的黏着语素，在构词时如果位于其他语素之前，是前缀(Prefix);如果位于其他语素之后，则是后缀(Suffix)。下面我们列出英语中常见的一些前缀和后缀。
-例3-16
-前缀
-en-enableenlightenencrustenlargepre-  predictprecursorprecedeprecautionun-   unableunhappyunlikeunselfishdis-  dislikedisbelievedisadvantagedismantlere-   rebuildreconstructrecollectrecall
-①需要指出的是，如果单一的词根本身也可以独立成词，则这个词根本身也同时是词干，如cat。
+### 3.2 语素的种类
 
-50  语言学教程(第五版中文本)
-后缀
--en reddenflattenlightendeepen-ise verbalisenaturalisefossiliseAmericanise-ing doingreadingwalkingfeeling-s booksboyscupstables-er smallergreaterbiggerhotter
-如果只关注英语，我们可能会就此止步，声称词缀只包含前缀和后缀两种。然而，众所周知，至少在表层结构上，不同语言间存在巨大差异是人类语言很重要的特征。在其他一些语言中，我们还发现了另外两种类型的词缀：中缀(Infix)和框缀(Circumfix)。前缀和后缀黏附在一个词上不会破坏词中原有的语素，但中缀的不同在于它并不是黏附到一个语素之前或之后，而是插入到一个语素中间。他加禄语(Tagalog)就是这样一种含有中缀的语言。举例来说，词缀-um-插入到形容词中间，会形成一个起始体动词(就像英语的动词redden和flatten一样，意指状态的改变)。
-例3-17
-形容词
-ganda(beautiful)(漂亮的)
-gising(awake)(醒着的)hirap(difficult)(困难的)
-动词gumanda(become beautiful)(变得漂亮)gumising(awaken)(醒来)humirap(become difficult)(变得艰难)
-注意以上例子，中缀-um-是插在形容词词根的第一个辅音之后。因此，他加禄语的母语者如果知道ganda的意义就会立刻知道gumanda的意义，就像一个英语母语者如果知道possible(可能的)的意义就能立刻知道impossible(不可能的)的意义一样。
+有的词可以进一步划分出更小的单位。例如，我们知道 *popularise* 和 *teacher* 是由更小的语义单位构成的。在 3.1 中，我们已经提到，这些更小的语义单位是语素，它们是词内部最小的有意义的成分。本节中，我们将介绍不同类型的语素，以便进一步理解词是如何形成的。
+
+构成 *popularise* 的两个语素 *popular* 和 *-ise* 的差别在于是否能够独立出现。尽管在 *popularise* 中，*popular* 是词的一个部分，但这个语素本身也可以独立作为一个词出现。而
+
+① 汉语中没有和英文 *the* 完全对等的冠词，我们的中文翻译“这本书”只能尽量贴近英文原文的意义，但实际上，与汉语“这”对应的是英文的指示词 *this/these*，当然，汉语的指示词“这”“那”没有明确的单复数数量特征（number feature）。本章中其他例句的中文翻译也都不一定贴合英文原句的结构，中文翻译的目的是帮助读者更好地理解这些句子的意义。
+
+*popularise* 的另外一个部分 *-ise*，则不能作为一个词单独出现。这个语素必须黏附到其他语素上，如在 *popularise*、*naturalise*、*crystallise* 中，*-ise* 要分别黏附到 *popular*、*natural* 和 *crystal* 上。同样，*teach* 能独立成词，但 *-er* 不能。像 *popular* 和 *teach* 这样可以独立成词的语素称为自由语素（Free Morphemes），而 *-ise* 和 *-er* 这样不能独立成词的语素则称为黏着语素（Bound Morphemes）。
+
+任何词都包含词根（Root），它是一个词构成的基础。比如 *enable*、*astronomy* 和 *linguist* 的词根分别是 *-able*、*astro-* 和 *lingu-*。部分词根，如 *astro-* 和 *lingu-*，无法独立成词，为黏着词根（Bound Roots）。当词根和黏着语素结合时，就形成了词干（Stem）。词干既可以是独立的词，也可以作为基础与其他黏着语素构成新词。
+
+例 3-15
+- 词根：nature（自然）
+  - 词干：natural（自然的）（名词 + 词缀 *-al*）
+  - 词干：naturalise（使加入国籍）（形容词 + 词缀 *-ise*）
+- 词根：construct（建设）
+  - 词干：construction（建筑）（动词 + 词缀 *-ion*）
+  - 词干：constructional（建筑的）（名词 + 词缀 *-al*）
+
+简单理解，词干就是一个词去掉屈折词缀之后的部分。我们在下文会解释什么是屈折词缀。我们暂时可以将它们理解成黏附在词上的语法标记，比如时标记（英语中的 *-d* 和 *-ed*）、分词标记（英语中的 *-ed* 和 *-ing*）。这样，我们就可以说 *naturalising*、*naturalises* 和 *naturalised* 都包含同样的词干 *naturalise*。
+
+一个词缀（Affix），即无法作为词根的黏着语素，在构词时如果位于其他语素之前，是前缀（Prefix）；如果位于其他语素之后，则是后缀（Suffix）。下面我们列出英语中常见的一些前缀和后缀。
+
+例 3-16
+- 前缀
+  - en-：enable, enlighten, encrust, enlarge
+  - pre-：predict, precursor, precede, precaution
+  - un-：unable, unhappy, unlike, unselfish
+  - dis-：dislike, disbelieve, disadvantage, dismantle
+  - re-：rebuild, reconstruct, recollect, recall
+
+①需要指出的是，如果单一的词根本身也可以独立成词，则这个词根本身也同时是词干，如 *cat*。
+
+- 后缀
+  - -en：redden, flatten, lighten, deepen
+  - -ise：verbalise, naturalise, fossilise, Americanise
+  - -ing：doing, reading, walking, feeling
+  - -s：books, boys, cups, tables
+  - -er：smaller, greater, bigger, hotter
+
+如果只关注英语，我们可能会就此止步，声称词缀只包含前缀和后缀两种。然而，众所周知，至少在表层结构上，不同语言间存在巨大差异是人类语言很重要的特征。在其他一些语言中，我们还发现了另外两种类型的词缀：中缀（Infix）和框缀（Circumfix）。前缀和后缀黏附在一个词上不会破坏词中原有的语素，但中缀的不同在于它并不是黏附到一个语素之前或之后，而是插入到一个语素中间。他加禄语（Tagalog）就是这样一种含有中缀的语言。举例来说，词缀 *-um-* 插入到形容词中间，会形成一个起始体动词（就像英语的动词 *redden* 和 *flatten* 一样，意指状态的改变）。
+
+例 3-17
+- 形容词
+  - ganda（漂亮的）
+  - gising（醒着的）
+  - hirap（困难的）
+- 动词
+  - gumanda（变得漂亮）
+  - gumising（醒来）
+  - humirap（变得艰难）
+
+注意以上例子，中缀 *-um-* 是插在形容词词根的第一个辅音之后。因此，他加禄语的母语者如果知道 *ganda* 的意义，就会立刻知道 *gumanda* 的意义，就像一个英语母语者如果知道 *possible*（可能的）的意义，就能立刻知道 *impossible*（不可能的）的意义一样。
+
 下面我们再列举一些中缀的例子：
-例3-18
-邦图克语(Bontoc),分布于菲律宾(Philippines)(Fromkin,et al.2014:41)
-名词/形容词动词fikas(strong)(强壮的)fumikas(to be strong)(变得强壮)kilad(red)(红色的)kumilad(to be red)(变成红色)fusul(enemy)(敌人)fumusul(to be an enemy)(变成敌人)
 
-化语(Hua)(一种跨新几内亚语[Trans-New Guinea language])(Haiman 1980:195)
-zgavo(embrace)(拥抱)zgaavo(not embrace)(不拥抱)harupo(slip)(滑动)haruapo(not slip)(不滑动)rvato(be nigh)(附近的)rvaato(not be nigh)(不在附近的)
-邦图克语的中缀表现和他加禄语很类似：中缀-um-黏附在要附着的语素的第一个辅音后，生成一个动词。在化语中，中缀-a-插在要附着的语素的最后一个音节前，语义类似于否定词。
-初步了解了中缀的概貌之后，我们来尝试一个简单的挑战。你认为下面例句中表示复数的语素-s是中缀吗?
-例3-19
-mothers-in-law(岳母/婆婆)passers-by(过路人)
-上述两例中的语素-s看起来很像中缀：毕竟，它们是插在了词的中间。但仔细考察就会发现它们并不能算是中缀。正如前文所示，中缀最基本的性质是它们不能黏附在一个语素之后或之前，而必须插人到一个语素中间。而上述两例中的-s并没有破坏任何一个语素，而是分别跟在语素mother和passer之后。
-最后，我们来看看框缀的表现。框缀既有前缀的特性又有后缀的特性，就像同时结合了二者。举例来说，荷兰语中，fiets(to cycle)的过去分词形式是ge-fiets-t。可以看出表达过去分词这一语法意义的词缀包含两个部分，一个部分在词根动词前，另一部分在词根动词后。德语中也有类似的词缀添加方式，比如ge-sing-e(singing)就是通过sing(to sing)加框缀得到的，ge-lieb-t则是由lieb(to love)加框缀而来。
-结束本节内容之前，我们再来了解一下同位语素变体现象(Allomorphy)。它指语音上不同的成分在意义和语法功能上是同一抽象语素的不同变体。这些语音上不同的变体叫作语素变体(Allomorphs)。考虑下面的例子：
-例3-20
-intolerable(不可忍受的)inelegant(不优雅的)inappropriate(不合适的)irregular(不规则的)illegal(不合法的)impossible(不可能的)
+例 3-18
+- 邦图克语（Bontoc），分布于菲律宾（Philippines）（Fromkin, et al. 2014:41）
+  - 名词/形容词
+    - fikas（强壮的）
+    - kilad（红色的）
+    - fusul（敌人）
+  - 动词
+    - fumikas（变得强壮）
+    - kumilad（变成红色）
+    - fumusul（变成敌人）
 
-impatient(不耐心的)
-imbalance(不平衡)
-上述例子中，前缀in-,ir-,il-和im-就是语素变体。在构词中，它们遵循相同的规则；语义上，它们表达相同的意义：每个变体都是作为前缀黏附在形容词上，都表达“否定”的语义。直觉上，我们也能感觉到它们在语音上只有细微的不同。但是为什么同一个语素会实现为不同的语音形式呢?对很多例子来说，语音上的要求就是背后的决定因素。在上面的例子中，当词干的词首辅音是流音(Liquid)(也称为“通音”[Approximant])时，如/1/和/r/,前缀的鼻辅音会被同化为相应的流音，得到illegal和irregular。如果词干的词首辅音为双唇音，如/p/和/b/,前缀就会实现为/1m/,即前缀的鼻辅音会被同化为双唇音。如果词干既不以流音起首，也不以双唇辅音起首，则前缀的规则形式/n/就会出现。弄清楚了这背后的原因，我们就可以预测这个抽象的语素在什么样的词首辅音前会实现为什么具体的语音形式。
-但也不是所有的语素变体都是可预测的，比如下面的例子：
-例3-21
-动词原型过去式过去分词go(走)wentgonedo(做)diddonefeel(感觉)feltfeltwin(赢)wonwonleave(离开)leftleftcome(来)camecome
+- 化语（Hua）（一种跨新几内亚语[Trans-New Guinea language]）（Haiman 1980:195）
+  - zgavo（拥抱）
+  - zgaavo（不拥抱）
+  - harupo（滑动）
+  - haruapo（不滑动）
+  - rvato（附近的）
+  - rvaato（不在附近的）
+
+邦图克语的中缀表现和他加禄语很类似：中缀 *-um-* 黏附在要附着的语素的第一个辅音后，生成一个动词。在化语中，中缀 *-a-* 插在要附着的语素的最后一个音节前，语义类似于否定词。
+
+初步了解了中缀的概貌之后，我们来尝试一个简单的挑战。你认为下面例句中表示复数的语素 *-s* 是中缀吗？
+
+例 3-19
+- mothers-in-law（岳母/婆婆）
+- passers-by（过路人）
+
+上述两例中的语素 *-s* 看起来很像中缀：毕竟，它们是插在了词的中间。但仔细考察就会发现它们并不能算是中缀。正如前文所示，中缀最基本的性质是它们不能黏附在一个语素之后或之前，而必须插人到一个语素中间。而上述两例中的 *-s* 并没有破坏任何一个语素，而是分别跟在语素 *mother* 和 *passer* 之后。
+
+最后，我们来看看框缀的表现。框缀既有前缀的特性又有后缀的特性，就像同时结合了二者。举例来说，荷兰语中，*fiets*（to cycle）的过去分词形式是 *ge-fiets-t*。可以看出表达过去分词这一语法意义的词缀包含两个部分，一个部分在词根动词前，另一部分在词根动词后。德语中也有类似的词缀添加方式，比如 *ge-sing-e*（singing）就是通过 *sing*（to sing）加框缀得到的，*ge-lieb-t* 则是由 *lieb*（to love）加框缀而来。
+
+结束本节内容之前，我们再来了解一下同位语素变体现象（Allomorphy）。它指语音上不同的成分在意义和语法功能上是同一抽象语素的不同变体。这些语音上不同的变体叫作语素变体（Allomorphs）。考虑下面的例子：
+
+例 3-20
+- intolerable（不可忍受的）
+- inelegant（不优雅的）
+- inappropriate（不合适的）
+- irregular（不规则的）
+- illegal（不合法的）
+- impossible（不可能的）
+- impatient（不耐心的）
+- imbalance（不平衡）
+
+上述例子中，前缀 *in-*、*ir-*、*il-* 和 *im-* 就是语素变体。在构词中，它们遵循相同的规则；语义上，它们表达相同的意义：每个变体都是作为前缀黏附在形容词上，都表达“否定”的语义。直觉上，我们也能感觉到它们在语音上只有细微的不同。但是为什么同一个语素会实现为不同的语音形式呢？对很多例子来说，语音上的要求就是背后的决定因素。在上面的例子中，当词干的词首辅音是流音（Liquid）（也称为“通音”[Approximant]）时，如 /1/ 和 /r/，前缀的鼻辅音会被同化为相应的流音，得到 *illegal* 和 *irregular*。如果词干的词首辅音为双唇音，如 /p/ 和 /b/，前缀就会实现为 /1m/，即前缀的鼻辅音会被同化为双唇音。如果词干既不以流音起首，也不以双唇辅音起首，则前缀的规则形式 /n/ 就会出现。弄清楚了这背后的原因，我们就可以预测这个抽象的语素在什么样的词首辅音前会实现为什么具体的语音形式。
+
+但并不是所有的语素变体都是可预测的，比如下面的例子：
+
+例 3-21
+- 动词原型
+  - go（走）
+  - do（做）
+  - feel（感觉）
+  - win（赢）
+  - leave（离开）
+  - come（来）
+- 过去式
+  - went
+  - did
+  - felt
+  - won
+  - left
+  - came
+- 过去分词
+  - gone
+  - done
+  - felt
+  - won
+  - left
+  - come
+
 上述语素变体都是不规则的，因此都不可预测。也就是说，这些词的构成并不遵循特定的规则，而是直接被语言使用者储存在心理词库中。
-3.3形态变化
-到目前为止，我们已经发现很多词(词语形式和词位)都包含两个或两个以上的语素。但是语素是如何组合成新的词位或者词语形式的呢?这就是语言学的一个分支——形态学(Morphology)所要回答的核心问题。本节中，我们会学习一些主要的形态变化，如派生(Derivation)、复合(Compounding)和屈折(Inflection),以及其他一些次要的形态变化，如词语新造(Coinage)、截搭(Blending)、逆构(Backformation)、截短(Clipping)、缩略(Acronym)等。
 
-3.3.1派生构词
-派生指在已有词位上添加词缀构成新的词位的形态变化。举例来说，当动词construct和后缀-ion结合在一起，一个新词(或者更准确地说，是一个新的词位)construction就产生了。派生所涉及的词缀，如-ion,叫派生词缀(Derivational Affixes)或派生语素(Derivational Morphemes)。通常来说，派生会改变已有词位的词类。我们知道最基本的词类有名词、动词、形容词和副词。副词暂且不论，其他几个词类都可以通过互相派生来形成。也就是说，名词可以通过派生而变成动词或形容词，动词可以通过派生变成名词或形容词，同样，形容词也可以通过派生变成名词或动词，或更常见的是，形容词通过派生变成副词。派生也可以不改变词位的词类。比如，impossible是形容词，它由possible派生而来，而possible显然也是一个形容词。派生形成的副词只能由形容词派生而来，而不能由名词或动词派生而来。
-例3-22
-名词的派生
-V→N decorat-ion(装饰)appear-ance(出现)
-A→N happi-ness(快乐)free-dom(自由)
-N→N child-hood(童年)king-dom(王国)
-动词的派生
-A→V social-ise(社会化)whit-en(使变白)
-N→V en-joy(享受)im-prison(监禁)
-V→V re-call(回忆)un-fold(展开)
-形容词的派生
-V→A read-able(可读的)evaluat-ive(可估价的)
-N→A joy-ful(欢喜的)astronom-ical(天文的)
-teach-er(老师)
-romantic-ism(浪漫主义)
-friend-ship(友谊)
-en-large(扩大)
-in-habit(栖息)
-dis-like(不喜欢)
-defin-able(可定义的)
-pictur-esque(图画般的)
+### 3.3 形态变化
 
-54   语言字教柱(弟五版中X41
-A→A im-plausible(难以置信的)in-accurate(不精确的)ab-normal(异常的)
-副词的派生
-A→Adv.slow-1y(缓慢地)great-1y(非常地)odd-ly(古怪地)
-上述大多数派生过程都包含对原词位词类(Category①)的改变，因此这一过程也可称为词类化(Categorisation),其中起作用的词缀是词类标记(Categoriser),它携带有重要的语法信息，即词类特征(Categorial Feature)。需要注意，很多词类标记是不包含语义信息的，它们唯一的功能就是改变所附着词位的词类。举例来说，名词化标记-ion和-ness就属于这种类型。Construct和construction的意义并没有什么不同，它们的不同仅仅是前者是动词，而后者是名词。但也并不是所有的词类标记都缺乏语义信息。比如说，名词化标记-er就不仅给动词词位提供名词性的词类特征，而且还提供具体的语义信息，即指称动词所表达的事件的发出者。因此，通过-er的意义，我们知道a teacher表示的是一个教书的人(a person who teaches)。动词化标记-en也是一样，提供了“变成……”的意义，因此当形容词red和-en结合时，新的词位redden表示“变成红色”。
-上文提到也有派生词并没有改变原词位的词类，这表明有一些派生词缀并不携带词类(语法)信息。这些词缀只包含语义信息。比如说，上面提到的例子中-hood表示“一个特定的时期”(a certain period):childhood表达的意义是“作为儿童的那个时期”(the period of being a child)。由于child和childhood都是名词，因此childhood这个词的构成过程就没有改变原词位的词类。
-与派生密切相关的另一构词方法叫转类(Conversion)。转类也会形成新的词位。上文所给例子中，词类改变(或称词类化过程)大多通过添加词缀或词类标记来实现。但有时词类化也可以不包含任何词缀，我们称这种词类化为零派生(Zero-derivation)或转类。下面是英语中一些转类的例子：
-例3-23
-名词(N)→动词(V)
-Send me an email(N)please.(请给我发一封邮件。)Email(V)me please.(请邮件我。)
-①此处取术语category狭义的理解，即传统语法上对词性(Part of Speech)的归类，如“名词”“动词”“形容词”“副词”“介词”等。更宽的定义(此时category常常翻译为“语类”)则包括更抽象的一些类别，如“时”(Tense)、“体”(Aspect)等，在句法理论中，“语类”还可以包括词组层面的成分，在此我们不展开讨论。
+到目前为止，我们已经发现很多词（词语形式和词位）都包含两个或两个以上的语素。但是语素是如何组合成新的词位或者词语形式的呢？这就是语言学的一个分支——形态学（Morphology）所要回答的核心问题。本节中，我们会学习一些主要的形态变化，如派生（Derivation）、复合（Compounding）和屈折（Inflection），以及其他一些次要的形态变化，如词语新造（Coinage）、截搭（Blending）、逆构（Backformation）、截短（Clipping）、缩略（Acronym）等。
 
-形容词(A)→动词(V)
-The water is very cool(A).(水很凉。)
-The coffee will cool(V)down very fast.(咖啡凉得很快。)
-动词(V)→名词(N)
-He always kicked(V)the door.(他老踢门。)
-He always gave a kick (N)at the door when it was not open.(门关着的时候他老对着门踢。)
-3.3.2复合构词
-就像派生构词一样，复合构词也会生成新词位。但不同之处在于，复合构词是两个词位结合，而非一个词位和一个词缀结合。Socialise这个词包含词位social和词缀-ise,属于派生构词。Blackmail这个词也包含两个部分，分别是black和mail,但与socialise的构成不同的是，blackmail的两个组成部分都是词位，没有任何词缀参与blackmail的构成过程。Blackmail形成的方式我们就叫作复合构词(Compounding)。Blackmail是一个复合词(Compound/Compound Word)。
-Bisetto &Scalise(2005)考察了复合词的构成部分之间的语义和语法关系，认为可以把复合词分成三类：修饰型复合词(Atributive Compounds)、并列型复合词(Coordinative Compounds)和从属型复合词(SubordinativeCompounds)。修饰型复合词的两个组成部分之间是修饰关系，其中一个是修饰语(Modifier),一个是中心语(Head):
-例3-24
-修饰型复合词windmill(风车)(风来推动的磨坊)bookstore(书店)(卖书的店铺)lowlife(下层阶级)(较低阶层的生活)coffee table(咖啡桌)(用来喝咖啡的桌子)
+#### 3.3.1 派生构词
+
+派生指在已有词位上添加词缀构成新的词位的形态变化。举例来说，当动词 *construct* 和后缀 *-ion* 结合在一起，一个新词（或者更准确地说，是一个新的词位）*construction* 就产生了。派生所涉及的词缀，如 *-ion*，叫派生词缀（Derivational Affixes）或派生语素（Derivational Morphemes）。通常来说，派生会改变已有词位的词类。我们知道最基本的词类有名词、动词、形容词和副词。副词暂且不论，其他几个词类都可以通过互相派生来形成。也就是说，名词可以通过派生而变成动词或形容词，动词可以通过派生变成名词或形容词，同样，形容词也可以通过派生变成名词或动词，或更常见的是，形容词通过派生变成副词。派生也可以不改变词位的词类。比如，*impossible* 是形容词，它由 *possible* 派生而来，而 *possible* 显然也是一个形容词。派生形成的副词只能由形容词派生而来，而不能由名词或动词派生而来。
+
+例 3-22
+- 名词的派生
+  - V→N：decorate + -ion → decoration（装饰）
+  - A→N：happy + -ness → happiness（快乐）
+  - N→N：child + -hood → childhood（童年）
+- 动词的派生
+  - A→V：social + -ise → socialise（社会化）
+  - N→V：im- + prison → imprison（监禁）
+  - V→V：re- + call → recall（回忆）
+- 形容词的派生
+  - V→A：read + -able → readable（可读的）
+  - N→A：joy + -ful → joyful（欢喜的）
+  - teach + -er → teacher（老师）
+  - romantic + -ism → romanticism（浪漫主义）
+  - friend + -ship → friendship（友谊）
+  - en- + large → enlarge（扩大）
+  - in- + habit → inhabit（栖息）
+  - dis- + like → dislike（不喜欢）
+  - defin- + able → definable（可定义的）
+  - pictur- + esque → picturesque（图画般的）
+- 形容词的派生
+  - A→A：im- + plausible → implausible（难以置信的）
+  - in- + accurate → inaccurate（不精确的）
+  - ab- + normal → abnormal（异常的）
+- 副词的派生
+  - A→Adv：slow + -ly → slowly（缓慢地）
+  - great + -ly → greatly（非常地）
+  - odd + -ly → oddly（古怪地）
+
+上述大多数派生过程都包含对原词位词类（Category①）的改变，因此这一过程也可称为词类化（Categorisation），其中起作用的词缀是词类标记（Categoriser），它携带有重要的语法信息，即词类特征（Categorial Feature）。需要注意，很多词类标记是不包含语义信息的，它们唯一的功能就是改变所附着词位的词类。举例来说，名词化标记 *-ion* 和 *-ness* 就属于这种类型。*Construct* 和 *construction* 的意义并没有什么不同，它们的不同仅仅是前者是动词，而后者是名词。但也并不是所有的词类标记都缺乏语义信息。比如说，名词化标记 *-er* 不仅给动词词位提供名词性的词类特征，而且还提供具体的语义信息，即指称动词所表达的事件的发出者。因此，通过 *-er* 的意义，我们知道 *a teacher* 表示的是一个教书的人（a person who teaches）。动词化标记 *-en* 也是一样，提供了“变成……”的意义，因此当形容词 *red* 和 *-en* 结合时，新的词位 *redden* 表示“变成红色”。
+
+上文提到也有派生词并没有改变原词位的词类，这表明有一些派生词缀并不携带词类（语法）信息。这些词缀只包含语义信息。比如说，上面提到的例子中 *-hood* 表示“一个特定的时期”（a certain period），*childhood* 表达的意义是“作为儿童的那个时期”（the period of being a child）。由于 *child* 和 *childhood* 都是名词，因此 *childhood* 这个词的构成过程就没有改变原词位的词类。
+
+与派生密切相关的另一构词方法叫转类（Conversion）。转类也会形成新的词位。上文所给例子中，词类改变（或称词类化过程）大多通过添加词缀或词类标记来实现。但有时词类化也可以不包含任何词缀，我们称这种词类化为零派生（Zero-derivation）或转类。下面是英语中一些转类的例子：
+
+例 3-23
+- 名词（N）→动词（V）
+  - Send me an email (N) please.（请给我发一封邮件。）
+  - Email (V) me please.（请邮件我。）
+- 形容词（A）→动词（V）
+  - The water is very cool (A).（水很凉。）
+  - The coffee will cool (V) down very fast.（咖啡凉得很快。）
+- 动词（V）→名词（N）
+  - He always kicked (V) the door.（他老踢门。）
+  - He always gave a kick (N) at the door when it was not open.（门关着的时候他老对着门踢。）
+
+①此处取术语 *category* 狭义的理解，即传统语法上对词性（Part of Speech）的归类，如“名词”“动词”“形容词”“副词”“介词”等。更宽的定义（此时 *category* 常常翻译为“语类”）则包括更抽象的一些类别，如“时”（Tense）、“体”（Aspect）等，在句法理论中，“语类”还可以包括词组层面的成分，在此我们不展开讨论。
+
+#### 3.3.2 复合构词
+
+就像派生构词一样，复合构词也会生成新词位。但不同之处在于，复合构词是两个词位结合，而非一个词位和一个词缀结合。*Socialise* 这个词包含词位 *social* 和词缀 *-ise*，属于派生构词。*Blackmail* 这个词也包含两个部分，分别是 *black* 和 *mail*，但与 *socialise* 的构成不同的是，*blackmail* 的两个组成部分都是词位，没有任何词缀参与 *blackmail* 的构成过程。*Blackmail* 形成的方式我们就叫作复合构词（Compounding）。*Blackmail* 是一个复合词（Compound/Compound Word）。
+
+Bisetto & Scalise (2005) 考察了复合词的构成部分之间的语义和语法关系，认为可以把复合词分成三类：修饰型复合词（Atributive Compounds）、并列型复合词（Coordinative Compounds）和从属型复合词（Subordinative Compounds）。修饰型复合词的两个组成部分之间是修饰关系，其中一个是修饰语（Modifier），一个是中心语（Head）：
+
+例 3-24
+- 修饰型复合词
+  - windmill（风车）（风来推动的磨坊）
+  - bookstore（书店）（卖书的店铺）
+  - lowlife（下层阶级）（较低阶层的生活）
+  - coffee table（咖啡桌）（用来喝咖啡的桌子）
+
 并列型复合词中，两个组成部分的地位是完全平等的，互相不存在修饰关系：
-例3-25
-并列型复合词prince-consort(王夫)(一个既是王子又是伴侣的人)teacher-student(师生关系)(在教学活动中老师和学生之间的关系)
 
-从属型复合词的两个组成部分中，其中一个通常被认为是另一个的论元(Argument)。这里我们需要先讨论什么是论元。一个句子中，通常主语和宾语(在有宾语的情况下)是动词的论元。因此，在John drove a truck(约翰驾驶了一辆卡车)中，John和truck就是动词drive的论元。在英语的从属型复合词中，通常位于右侧的词位是由动词词干派生而来的，而位于左侧的词位则是它的论元。举例来说，在truck-driver(卡车司机)中，词位driver是由drive派生而来，而truck则是drive的论元，或者更具体来说是drive的受事论元(Patient Argument),即动作的经历者，这就解释了为什么这个词的意义是“开卡车的人(a person who drives a truck)”。同样的分析也适用于下面这些词：tractor-driving指的是“拖拉机驾驶”这一动作，cigarette-smoking指“抽烟”这一动作，coffee-grinder则是用来磨咖啡豆的工具，can-opener是开罐头的工具。这些复合词也称作合成性复合词(Synthetic Compounds),因为这些词的构成过程既包含复合，也包含派生(比如从动词到名词的派生，就像从drive到driver),而合成性复合词之外的其他复合词也称作根复合词(RootCompounds)。
-例3-26
-从属型复合词truck-driver(卡车司机)tractor-driving(拖拉机驾驶)cigarette-smoking(抽烟)coffee-grinder(咖啡研磨机)can-opener(开罐器)
-结束本节之前，需要指出复合词并不是完全同质的，它们的形成有不同的机制。不同类型的复合词具体包含什么样的形成机制仍然是形态学和句法学研究的核心问题，本节不再详细讨论。这里，我们仅给出一点和语义有关的证据。一些复合词的语义是透明的，其语义就像是由各个组成部分的语义直接组合得到，类似于词组合构成短语的过程，合成性复合词就是这样：组成部分中左侧的词位是右侧动词词位的受事论元。但也有另外一些复合词的语义不是组合性的，比如blackmail,就并不是指“黑色的邮件”。
-3.3.3  屈折构词
-屈折构词并不构成新词位，而只是生成原词位的不同词语形式。这一过程中所涉及的词缀被称为屈折词缀(Inflectional Affixes)或屈折语素(Inflectional Morphemes)。因为添加屈折词缀是语法所要求的，因此一个词只有在进入句子时才会被添加屈折词缀。举例来说，英语中如果句子的主语
+例 3-25
+- 并列型复合词
+  - prince-consort（王夫）（一个既是王子又是伴侣的人）
+  - teacher-student（师生关系）（在教学活动中老师和学生之间的关系）
 
-是第三人称单数的代词或名词，时态是现在时，动词是如like这样的，屈折词缀-s就要黏附到动词上。很显然屈折构词不改变词汇原义，也不改变词类。动词词位LIKE的两个词语形式liked和likes仍然都是动词，语义上也相同。在英语这样的语言中，动词、名词、形容词和副词都有屈折构词操作。下面列出了英语中一些主要的屈折词缀：
-例3-27-s(第三人称单数现在时)Freddy like-s linguistics.(弗雷德[现在]喜欢语言学。)-ed(过去时)John like-d linguistics(约翰[过去]喜欢语言学。)-ing(进行体)John is read-ing linguistics.(约翰正在读语言学。)-en(过去分词)Mary has eat-en the apple.(玛丽吃了那个苹果。)-s(复数)Mary ate three apple-s.(玛丽吃了三个苹果。)-er(比较级)John works hard-er than Tim.(约翰工作比蒂姆更勤奋。)-est(最高级)John is the smart-est student in hisdepartment.
-(约翰是他所在院系中最聪明的学生。)
-无论是单一语言内部还是跨语言来看，特定语法功能都既可能由屈折语素来实现，也可能由独立的功能词来实现。比如在英语中，形容词或副词如果包含两个以上音节，比较级通常是由功能词more来表达，而不再用屈折词缀-er(比较smarter和more intelligent)。再如，将来时在英语中由功能词will来表达，但在法语中则由屈折语素来表达。
-例3-28
-a.I will watch TV.(我将要看电视。)
+从属型复合词的两个组成部分中，其中一个通常被认为是另一个的论元（Argument）。这里我们需要先讨论什么是论元。一个句子中，通常主语和宾语（在有宾语的情况下）是动词的论元。因此，在 *John drove a truck*（约翰驾驶了一辆卡车）中，*John* 和 *truck* 就是动词 *drive* 的论元。在英语的从属型复合词中，通常位于右侧的词位是由动词词干派生而来的，而位于左侧的词位则是它的论元。举例来说，在 *truck-driver*（卡车司机）中，词位 *driver* 是由 *drive* 派生而来，而 *truck* 则是 *drive* 的论元，或者更具体来说是 *drive* 的受事论元（Patient Argument），即动作的经历者，这就解释了为什么这个词的意义是“开卡车的人（a person who drives a truck）”。同样的分析也适用于下面这些词：*tractor-driving* 指的是“拖拉机驾驶”这一动作，*cigarette-smoking* 指“抽烟”这一动作，*coffee-grinder* 则是用来磨咖啡豆的工具，*can-opener* 是开罐头的工具。这些复合词也称作合成性复合词（Synthetic Compounds），因为这些词的构成过程既包含复合，也包含派生（比如从动词到名词的派生，就像从 *drive* 到 *driver*），而合成性复合词之外的其他复合词也称作根复合词（Root Compounds）。
 
-b.Je regarderai la télé.(法语)
-I will watch the TV‘I will watch TV."
-我们看到，在法语中，屈折词缀-ai①添加到动词regarder上表达将来时
-①更准确地说，屈折词缀-ai不仅表达将来时，而且同时表达了主语是第一人称单数。
+例 3-26
+- 从属型复合词
+  - truck-driver（卡车司机）
+  - tractor-driving（拖拉机驾驶）
+  - cigarette-smoking（抽烟）
+  - coffee-grinder（咖啡研磨机）
+  - can-opener（开罐器）
+
+结束本节之前，需要指出复合词并不是完全同质的，它们的形成有不同的机制。不同类型的复合词具体包含什么样的形成机制仍然是形态学和句法学研究的核心问题，本节不再详细讨论。这里，我们仅给出一点和语义有关的证据。一些复合词的语义是透明的，其语义就像是由各个组成部分的语义直接组合得到，类似于词组合构成短语的过程，合成性复合词就是这样：组成部分中左侧的词位是右侧动词词位的受事论元。但也有另外一些复合词的语义不是组合性的，比如 *blackmail*，就并不是指“黑色的邮件”。
+
+#### 3.3.3 屈折构词
+
+屈折构词并不构成新词位，而只是生成原词位的不同词语形式。这一过程中所涉及的词缀被称为屈折词缀（Inflectional Affixes）或屈折语素（Inflectional Morphemes）。因为添加屈折词缀是语法所要求的，因此一个词只有在进入句子时才会被添加屈折词缀。举例来说，英语中如果句子的主语
+
+是第三人称单数的代词或名词，时态是现在时，动词是如 *like* 这样的，屈折词缀 *-s* 就要黏附到动词上。很显然屈折构词不改变词汇原义，也不改变词类。动词词位 *LIKE* 的两个词语形式 *liked* 和 *likes* 仍然都是动词，语义上也相同。在英语这样的语言中，动词、名词、形容词和副词都有屈折构词操作。下面列出了英语中一些主要的屈折词缀：
+
+例 3-27
+- -s（第三人称单数现在时）：Freddy like-s linguistics.（弗雷德[现在]喜欢语言学。）
+- -ed（过去时）：John like-d linguistics.（约翰[过去]喜欢语言学。）
+- -ing（进行体）：John is read-ing linguistics.（约翰正在读语言学。）
+- -en（过去分词）：Mary has eat-en the apple.（玛丽吃了那个苹果。）
+- -s（复数）：Mary ate three apple-s.（玛丽吃了三个苹果。）
+- -er（比较级）：John works hard-er than Tim.（约翰工作比蒂姆更勤奋。）
+- -est（最高级）：John is the smart-est student in his department.（约翰是他所在院系中最聪明的学生。）
+
+无论是单一语言内部还是跨语言来看，特定语法功能都既可能由屈折语素来实现，也可能由独立的功能词来实现。比如在英语中，形容词或副词如果包含两个以上音节，比较级通常是由功能词 *more* 来表达，而不再用屈折词缀 *-er*（比较 *smarter* 和 *more intelligent*）。再如，将来时在英语中由功能词 *will* 来表达，但在法语中则由屈折语素来表达。
+
+例 3-28
+a. I will watch TV.（我将要看电视。）
+b. Je regarderai la télé.（法语）
+   I will watch the TV‘I will watch TV.”
+
+我们看到，在法语中，屈折词缀 *-ai* 添加到动词 *regarder* 上表达将来时
+①更准确地说，屈折词缀 *-ai* 不仅表达将来时，而且同时表达了主语是第一人称单数。
 
 信息。
-屈折和派生都包含词位和词缀的结合，但与派生相比，屈折具有如下一些特殊性质。首先，屈折仅仅是语法的要求，也就是说，这是一个人掌握一门语言所必须学会的知识的一部分。但一个人即使不知道如何派生出某个特定的新词，比如如何从possible派生出impossible,他也能够造出有意义的合语法的句子。其次，屈折比派生更能产。屈折规则可应用于大多数符合条件的情况，只有很少一部分是不规则的例外；但派生规则的应用则很受限制。比如，否定前缀im-只能用在特定的一组形容词上，到目前为止我们还并不清楚这背后的原因是什么。从这个角度来看，我们可以说，与屈折词不同的是，派生词是储存在我们的心理词库中的。再次，屈折构词绝不改变原词位的词类，而派生则经常导致词类的变化。最后，屈折不改变原词位的语义，而派生所构成的词则可以在语义上不同于原词位。Teacher在语义上显然不同于teach。如果我们知道后缀-er的功能和语义，teacher和teach在语义上的区别可以预测。但有时派生词的意义也可以是不透明的，比如，由natural和-ise构成的新词naturalise就并不指“变得自然”,而是指“获得某国的国籍/成为某国的公民”。
-3.3.4  次要形态变化
-除了上文所讲的主要的形态变化，还有一些不甚常见的形态变化可以构造新词。我们首先来看词语新造(Coinage),它指完全新造一个词语。比如我们现在用的很多词汇，如TV(电视),computer(电脑),iPhone(苹果手机)等，曾经都不是英语的词汇，因为这些事物那时尚未被发明出来。
-截搭(Blending)是另外一种构造新词的方式，它指将两个词位各自的一
-BREXIT
-Britain+EXIT=BREXIT
-汽车旅馆)
-部分拼接起来构成新词，且被拼接的两个成分均不是语素，这样的操作构成的词就是截搭词(Blends)。一个很典型的例子是英语中的brunch,它由breakfast中的br-和lunch中的-unch截搭构成。Brunch的语义和原本的两个词都相关，它指的是时间介于早餐和午餐之间的早午餐。下面列出了更多截搭词的例子：
-例3-29
-motor+hotel→motel(汽车+旅馆→
-simultaneous+broadcast→simulcast(同步+广播→同步广播)smoke+fog→smog(烟+雾→烟雾)spoon +fork→spork(勺子+叉子→叉勺)
+
+屈折和派生都包含词位和词缀的结合，但与派生相比，屈折具有如下一些特殊性质。首先，屈折仅仅是语法的要求，也就是说，这是一个人掌握一门语言所必须学会的知识的一部分。但一个人即使不知道如何派生出某个特定的新词，比如如何从 *possible* 派生出 *impossible*，他也能够造出有意义的合语法的句子。其次，屈折比派生更能产。屈折规则可应用于大多数符合条件的情况，只有很少一部分是不规则的例外；但派生规则的应用则很受限制。比如，否定前缀 *im-* 只能用在特定的一组形容词上，到目前为止我们还并不清楚这背后的原因是什么。从这个角度来看，我们可以说，与屈折词不同的是，派生词是储存在我们的心理词库中的。再次，屈折构词绝不改变原词位的词类，而派生则经常导致词类的变化。最后，屈折不改变原词位的语义，而派生所构成的词则可以在语义上不同于原词位。*Teacher* 在语义上显然不同于 *teach*。如果我们知道后缀 *-er* 的功能和语义，*teacher* 和 *teach* 在语义上的区别可以预测。但有时派生词的意义也可以是不透明的，比如，由 *natural* 和 *-ise* 构成的新词 *naturalise* 就并不指“变得自然”，而是指“获得某国的国籍/成为某国的公民”。
+
+#### 3.3.4 次要形态变化
+
+除了上文所讲的主要的形态变化，还有一些不甚常见的形态变化可以构造新词。我们首先来看词语新造（Coinage），它指完全新造一个词语。比如我们现在用的很多词汇，如 *TV*（电视）、*computer*（电脑）、*iPhone*（苹果手机）等，曾经都不是英语的词汇，因为这些事物那时尚未被发明出来。
+
+截搭（Blending）是另外一种构造新词的方式，它指将两个词位各自的一部分拼接起来构成新词，且被拼接的两个成分均不是语素，这样的操作构成的词就是截搭词（Blends）。一个很典型的例子是英语中的 *brunch*，它由 *breakfast* 中的 *br-* 和 *lunch* 中的 *-unch* 截搭构成。*Brunch* 的语义和原本的两个词都相关，它指的是时间介于早餐和午餐之间的早午餐。下面列出了更多截搭词的例子：
+
+例 3-29
+- motor + hotel → motel（汽车旅馆）
+- simultaneous + broadcast → simulcast（同步广播）
+- smoke + fog → smog（烟雾）
+- spoon + fork → spork（叉勺）
+
